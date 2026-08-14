@@ -1,0 +1,1053 @@
+brand,model,vehicle_age,km_driven,seller_type,fuel_type,transmission_type,mileage,engine,max_power,seats,selling_price,actual_price,fixed_profit
+Maruti*&*!&!&!&*,Alto,9,120000,Individual,Petrol,Manual,19.7,796,46.3,5,120000,100000,UNKNOWN
+UNKNOWN,Grand,A**^5,20000,Indiv*****idual,Petrol,Manual,18.9,1197,NULL,5,nan,485000,65000
+Hyundai,i20,11&*(*,****60000***,Individual,Petrol,Manual&&*(*&**,-17,1197,80,5,215000,195000,20000
+Maruti^@@(*@&!@,Alto*>?,9,37000,Individual,PTROL,Manual,20.92,998,67.1,5,226000,206000,iiiii
+Ford,Ecosport,6,30000,Dealer,Diesel,^^^^^Manual,22.77,1498,98.59,5,570000,****505000,65000
+Maruti,Wagon R,****8,35000,Individual,Petrol,Manual,18.9,998,67.1,5,350000,305000,45000
+Hyundai,i10,8,40000,Dealer,Petrol,Manual,-20.36,NULL,78.9,5,315000,270000,45000
+##@#$Maruti&^&^,Wagon R,3,17512,Dealer,Petrol,Manual,20.51,998,67.04,5,410000,365000,45000
+Hyundai,Venue,2,20000,Individual,Petrol,Automatic#$%^**&**,18.15,998,118.35,5,1050000,965000,*****85000
+Maruti,Swift,4,28321,Dealer,P,Manual,16.6,1197,85,5,511000,446000,65000
+*&^%&&Hyundai,Verna,8,65278,Dealer,Di,Manual,22.32,1582,126.32,5,425000,380000,45000
+Renault,Duster*******,5,$$$$$50000,Individual,Diesel,Manual,19.64,1461,108.45,5,n?a,685000,65000
+Mini,Cooper,4,6000,Dealer,Petrol,Manual,14.41,1998,189.08,5,3250000,3165000,85000
+Maruti,Ciaz,5,76000,Dealer&^%$%$%,Diesel,Manual&&*(#$%**,28.09,1248,88.5,5,650000,585000,65000
+Maruti,Swift,5,20000,Individual,Diesel,Manual,25.2,1248,74,5,627000,562000,UNKNOWN
+Mercedes-Benz,C-Class,7,65000,Dealer,Diesel,Manual,19.27,2143,170,5,1425000,1340000,85000
+Maruti&*@*#*#&@w,Swift,7,62200,Dealer,Diesel,Manual,28.4,NULL,74,5,425000,380000,45000
+Toyota,Innova,8,110000,Individual,Diesel,Manual,12.99,2494,100.6,8,605000,540000,65000
+Maruti,Baleno,6,20000,Individual,Petrol,Manual,21.4,1197,83.1,5,600000,535000,65000
+Maruti,Swift Dzire,5,40000&****,Individual,Petrol,Manual#!^#*#(!@q(,20.85,1197,83.14,5,575000,510000,65000
+Volkswagen,Vento**,8,47000,Dea,Petrol,Manual,16.09,1598,103.2,5,425000,380000,45000
+Maruti,Alto,8,25000,Dealer,Petrol,Manual,20.92,998,67.1,5,\,210000,20000
+Hyundai,Creta**^^^,2,15000,Individual,Diesel,Manual,19.67,1582,126.2,5,1225000,1140000,85000
+Honda,City,6,50000,Individual,Petrol,Manual&&*(*&**,17.4,1497,117.3,5,750000,685000,65000
+Mahindra,Bolero,10,25000,Individual%%s,Diesel,Manual,13.6,2523,63,7,350000,305000,45000
+Maruti,Swift Dzire,6,90000,Individual,Diesel,Manual,26.59,1248,NULL,5,600000,535000,65000
+Maruti,Swift Dzire,8,45000,Dealer,Diesel,Manual,26.59,1248,74,5,390000,345000,45000
+Honda&!*@&*@6,City,14,77253,Dealer,Petrol,Manual,17.7,1497,78,5,145000,125000,20000
+Hyundai,i20,3,25000,Individual,Petrol,Manual,17.19,1197,81.86,5,700000,635000,65000
+Toyota,Fortuner,8,110000,Individual,Diesel%%%,Manual,13,2982,168.5,7,1150000,1065000,85000
+Renault,KWID,4,30000,Individual,Petrol,Manual,23.01,999,67,5,340000,295000,45000
+Hon,Amaze,5,39993,Dealer,Petrol,Manual#$^*(()(),18.6,1199,88.76,5,465000,420000,45000
+Hyundai,Santro,12,80000,Individual,Petrol,Manual,17.92,1086,62.1,5,125000,*****105000,20000
+Mahindra,XUV500,9,185000,Individual,Diesel,Manual,15.1,2179,140,7,600000,535000,65000
+Maruti,Swift Dzire,8,90000,Individual,Diesel,Manual,23.4,1248,74,5,380000,335000,NULL
+NULL,i20,3,%%%15000,Individual,Diesel,#$%^^&**((Manual,22.54,1396,88.73,5,850000,765000,85000
+Hyundai,i20,3,40000,Individual,Petrol,Manual,18.6,1197,81.83,5,598000,533000,65000
+Honda,NULL,6,31180,Dealer,Petrol,Automatic,18,1497,117.3,5,NULL,635000,-635000
+Maruti,Swift Dzire,7,56000,Dealer,Diesel,Manual,23.4,1248,74,5,410000,365000,45000
+Maruti,Baleno,5,52427,Dealer,Petrol,Automatic,21.4,1197,83.1,5,590000,525000,65000
+Mahindra@#$%^&&&,Bolero,1&&&&,40000,Individual,Diesel,&**%$%^&*Manual,21,1498,74.96,7,850000,765000,85000
+Mahindra,KUV100,3,17000,Individual,Petrol,Manual,18.15,1198,82,5,-550000,485000,65000
+Maruti,Baleno,5,22000,Dealer,Petrol,Manual(*!&#^&@,15.4,1590,94,5,625000,560000,65000
+N/a,Swift Dzire,5,54000,Individual,Petrol,Manual,20.85,1197,83.14,5,600000,535000,65000
+Maruti,Wagon R,2,10000,Indi,Petrol,Manual,20.51,998,NULL,5,445000,400000,45000
+Maruti,Baleno,6,20000,Individual,Petrol,Manual,21.4,1197,83.1,5,600000,535000,65000
+Maruti,Swift Dzire,5,40000&****,Individual,Petrol,Manual#!^#*#(!@q(,20.85,1197,83.14,5,575000,510000,65000
+Volkswagen,Vento**,8,47000,Dea,Petrol,Manual,16.09,1598,103.2,5,425000,380000,45000
+Maruti,Ignis,2,20000,Individual,Petrol,Manual,20.89,1197,81.8,5,530000,465000,65000
+Maruti,Wagon R,3,53237,Trustmark Dealer,CNG,Manual,26.6,998,58.16,5,NA,365000,45000
+Datsun,RediGO,3,27263,Individual,Petrol,Manual,22.5,999,68,5,350000,305000,45000
+Hyundai,Verna,7,110000,Individual,Diesel,Manual,22.32,1582,126.3,5,520000,455000,65000
+Hyundai,i20,5,70000,Individual,Diesel,Manual,22.54,1396,88.73,5,750000,685000,65000
+Maruti,Swift Dzire,4,70000,Individual,Diesel^%^%,Manual,26.59,1248,74,5,560000,495000,65000
+Hyundai88834823W78S,i20,2,39000,Dealer,Pt,Manual,18.6,1197,81.83,5,655000,590000,65000
+Hyundai,Santro,14,56000,Dealer,Petrol,Manual,17.8,1086,63,5,125000,105000,20000
+Hyundai,i20,3,34000,Ind*****ividual,Petrol,Manual,18.6,1197,81.83,5,550000,485000,65000
+Mahindra,Scorpio,4,50000,Individual,Diesel,Manual,15.4,1997,120,7,1150000,1065000,85000
+Volkswagen,Vento,9,77400,Individual,Diesel,Manual,20.54,1598,103.6,5,500000,455000,45000
+Mahindra,Marazzo,2,36000,Indivi,Diesel,Manual,17.3,1497,121,7,990000,905000,NULL
+Hyundai,Verna,8,47876,Dealer,Diesel,Manual,25,1493,113.42,5,551000,486000,65000
+Mahindra,XUV500,3,21500,Individual,Diesel,Automatic,15.1,2179,152.87,7,1650000,1565000,85000
+Hyundai@@##$$,Grand,6,75000,Dealer,Diesel,Manual,24,1120,70,5,NULL,305000,-305000
+Ford,Aspire,4,58000,Dealer,Petrol,Manual,18.16,1196,86.8,5,500000,455000,45000
+Maruti,Swift Dzire,3,30000,Individual,Petrol,Manual,21.21,1197,81.8,5,575000,510000,65000
+Hyundai,Grand,3,50000,Individual,Diesel,Manual,24,1186,73.97,5,545000,480000,65000
+Ford,Figo,4,19093,Trustmark Dealer,Petrol,Manual,18.16,1196,86.8,5,525000,460000,65000
+Honda,Amaze,7,50000,Individual,Petrol,Manual,18,NULL,86.7,5,400000,355000,45000
+Maruti***,Wagon R,15,37000,Dealer,Petrol,Manual,14,1061,64,5,155000,135000,20000
+Maruti,Swift Dzire,5,47000,Dealer,Diesel,Manual,26.59,1248,74,5,545000,480000,65000
+Honda,City,8,70000,Individual,Petrol,Manual,16.8,1497,116.3,5,545000,480000,65000
+Renault,KWID,5,25000,Individual^^%#$#$,Petrol,Manual,25.17,799,53.3,5,n?a,220000,20000
+Maruti,UnKNown,3,26000,Dealer,Di,Manual,24.3,1248,88.5,5,725000,660000,65000
+Ford,Aspire,4,30000,Individual,Petrol,Manual,18.16,1196,86.8,5,480000,435000,45000
+Hyundai,i20,8,15000,Individual,Petrol,Manual,18.5,1197,82.9,5,375000,330000,45000
+Maruti,Swift,10,160000,Individual,d,mn,17.8,1248,75,5,225000,205000,20000
+Tata,Tiago,4,32100,Individual,Petrol,Manual,23.84,1199,84,5,400000,355000,45000
+Hyundai,i20%%^^&,5,22000,Dealer,Petrol,Manual,18.5,1197,82.9,5,550000,485000,n/A
+Mahindra8282384578,Scorpio,5,44000,Dealer,Diesel,Manual,-15.4,2179,120,7,1050000,965000,85000
+Volkswagen,Polo,5,78000,Dealer,Petrol,Manual,18.78,1198,74,5,450000,405000,45000
+Mercedes-Benz,C-Class,9,74352,Dealer,Petrol,Automatic,11.74,1796,186,5,775000,710000,65000
+Maruti,Wagon R,7,37000,Individual,Petrol,Manual,20.51,998,67.04,5,-350000,305000,-655000
+Honda,City,7,69000,Dealer,Diesel,Manual,25.1,1498,98.6,5,550000,485000,NULL
+Kia,Seltos,2,12120,Individual,Petrol,Manual((*&^^^^,16.8,1497,113.4,5,1080000,995000,85000
+Maruti,Baleno,5,52000,Dealer,Petrol,Manual,21.01,1197,81.8,5,575000,510000,65000
+Toyota,Innova,5,120000,Individual,Diesel,Manual,12.99,2494,100.6,8,950000,865000,85000
+Maruti,Alto,8,55000,Individual&*&*&%^%%^,Petrol,Manual,22.74,796,47.3,5,230000,210000,20000
+Hyundai,i20,10,160000,Individual,Diesel,Manual,21.9,1396,90,5,270000,250000,20000
+Ford@@#$%^&&*,Figo,10,40000,Individual,Petrol,Manual,15.6,1196,70,5,130000,110000,NULL
+Maruti,Swift Dzire,9,46000,Dealer,Petrol,Manual,19.1,1197,85.8,5,370000,325000,45000
+Maruti,Baleno,4,25000,Dealer,Petrol,Manual,21.4,1197,83.1,5,NAN,505000,65000
+Volkswagen,Polo,8,90000,Dealer,Diesel,Manual,22.07,1199,73.9,5,NAN,320000,45000
+Hyundai,i20,9,49566,Dealer,Petrol,Manual,18.5,1197,82.85,5,NAN,260000,20000
+Hyundai,Verna,3,14000,Dealer,Diesel,Automatic,22,1582,126.2,5,NAN,1165000,85000
+Hyundai,i20,5,11000,Dealer,Petrol,Manual,18.6,1197,81.83,5,NAN,525000,65000
+Maruti,Celerio,3,5000,Individual,Petrol,Automatic,23.1,998,67.04,5,475000,430000,45000
+#$%^^&SFord####,Ecosport,4,55000,Dealer,Diesel,Manual,23,1498,98.96,5,685000,620000,NULL
+Hyundai,Verna,9,65000,Dealer,Diesel,Automatic,19.08,1582,126.32,5,380000,335000,45000
+Renault,KWID,3,22000,Individual,Petrol,Manual,23.01,999,67,5,330000,285000,45000
+Maruti,Baleno,3,7671,Trustmark Dealer,Petrol,mn,21.01,1197,81.8,5,650000,585000,65000
+Maruti,Wagon R,5,66000,Individual,Petrol,Manual,20.51,998,67.04,5,325000,NULL,45000
+Maruti,Swift Dzire,3,45156,Dealer,Petrol,Automatic,21.21,1197,81.8,5,640000,575000,65000
+Hyundai,Venue,2,25000,Individual,Petrol,Manualsdggh,18.27,998,118.35,5,949000,864000,85000
+Hyundai,Verna,6,120000,Individual,Diesel,Manual,23.9,1582,126.2,5,660000,595000,65000
+Maruti,Swift,7,28000,Dealer,Petrol,Manual,16.1,1197,85,5,435000,390000,45000
+Hyundai,i20,8,55000,Dealer,Di,Manual,21.9,1396,88.76,5,385000,340000,45000
+Hyundai,Verna,2,14000,Dealer,Diesel,Automatic,22,1582,126.2,5,1250000,1165000,85000
+NULL,Wagon R,12,98780,Dealer,Petrol,!!!!Manual,18.9,998,67.1,5,155000,135000,20000
+Maruti,Swift,6,58000,Dealer,Diesel,Manual,25.2,1248,74,5,415000,370000,45000
+Maruti,Alto,10,30000,Individual,Pt,Manual,20.92,998,67.1,5,251000,231000,20000
+Mahindra,Scorpio,5,46400,Dealer,Diesel,Manual,15.4,2179,120,7,1150000,1065000,NULL
+Hyundai,i10,7,32111,Trustmark Dealer,Petrol,Manual,19.81,1086,68.05,5,310000,265000,45000
+Datsun,GO,6,35000,Individual,Petrol,Manual,19.44,1198,67,7,350000,305000,45000
+^^^^^Mahindra$$$$$,Scorpio,4,30000,Dealer,Diesel,Manual,15.4,1997,120,7,1125000,1040000,85000
+BMW,5,5,63000,Dealer,Diesel,Automatic,18.59,2993,261.49,5,2600000,2515000,85000
+Datsun,GO,3,10000,Individual%^&&&&,Petrol,Manual,20.62,1198,67,7,480000,435000,45000
+Maruti,Swift Dzire,4,25000,Individual,Diesel,Automatic,28.4,1248,74.02,5,850000,765000,85000
+Hyundai*#$@%!ASG,Creta,4,102000,Dealer,Diesel,Autom,17.01,1582,126.2,5,1100000,1015000,85000
+Maruti,Swift,3,35000,Dealer,Petrol,Manual,22,UNKNOWN,81.8,5,575000,510000,65000
+Maruti,Swift Dzire,9,49948,Dealer,Petrol,Manual,17.5,1298,85.8,5,340000,295000,45000
+Ford,Ecosport,3,55000,Individual,Diesel,Manual,23,1498,98.96,5,925000,-840000,NULL
+Hyundai,Grand,6,36000,Dealer,Petrol**^$%%,Manual,18.9,1197,82,5,400000,355000,45000
+Honda,City,5,49625,Dealer,Petrol,Manual,17.8,1497,117.3,5,725000,660000,65000
+Maruti,Swift Dzire9828282,7,35000,Individual,Diesel,Manual8888,23.4,1248,74,5,600000,535000,65000
+Mahindra!#%^&&**,Scorpio,8,95000,Individual,Diesel,Manual,12.05,2179,120,8,550000,485000,65000
+Ford,Aspire,4,36000,Dealer,Diesel,Manual,25.83,1498,99,5,585000,520000,65000
+Maruti,Wagon R,2,50000,Individual,Petrol,Manual,21.79,998,67.05,5,411000,366000,45000
+Maruti,Swift Dzire,6,&&^%^^&^y26500,Individual,Petrol,Manual******,20.85,1197,83.14,5,450000,405000,45000
+Honda,CR-V,6,80000,Dealer,Petrol,Automatic,13.7,1997,153.86,5,1290000,1205000,85000
+####Volkswagen,Polo,6,46000,Dealer,Petrol,Manual,16.47,1198,74,5,455000,410000,45000
+Hyundai,Grand,2,9000,Individual,Petrol,Manual,20.7,1197,81.86,5,710000,645000,N/A
+Honda,City,5,53000,Dealer,Petrol,Manual,16.8,1497,116.3,5,770000,705000,65000
+Ford,N/a,3,11387,Individual,Diesel,Automatic,10.91,3198,197,7,2900000,2815000,85000
+Honda,Amaze,3,50000,Individual,Diesel,Manual,25.8,1498,98.6,5,720000,655000,65000
+Mahindra%%%^&*,KUV,5,52000,Dealer,Diesel,Manual,25.32,1198,77,5,375000,UNKNOWN,45000
+Datsun,GO,6,35000,Individual,Petrol,Manual,19.44,1198,67,7,400000,355000,45000
+Renault,****Duster@,6,48000,Individual@#$%^^^&^,Diesel,Manual888%%$#,19.87,1461,83.8,5,600000,535000,65000
+Honda***,Jazz,3,18000,Individual,Petrol,Manual,18.7,1199,88.7,5,600000,535000,65000
+Maruti,Wagon R,9,57413,Individual,LPG,Manual,14.4,998,61.7,5,270000,NULL,20000
+Hyundai,i20,6,30000,Individual,Petrol,Manual,18.6,1197,81.83,5,500000,455000,45000
+$%%Hyundai$??%%%,Verna,6,55000,Dealer,Dies,Manual,23.9,1582,126.2,5,650000,585000,65000
+Maruti,Swift,3,10000,Individual,Petrol,Automatic,21.21,1197,81.8,5,660000,595000,65000
+BMW,3,5,68000,Dealer,Diesel,Automatic,22.69,1995,190,5,2090000,2005000,85000
+Kia,Seltos,1,8000,Dealer,Petrol,Manual,16.8,1497,113.4,5,1275000,1190000,85000
+Maruti#$%@%^&*,Swift,6,65000,Dealer,Diesel,Manual,28.4,1248,74,5,495000,450000,45000
+Hyundai,Grand,5,25000,Individual,Petrol,Manual,18.9,1197,82,5,475000,430000,45000
+Maruti,Ciaz,6,70000,Individual,Petrol,Ma,20.73,1373,91.1,5,530000,465000,65000
+Tata,Tiago,5,&*&^&^^&9500,Individual,Petrol,Manual,23.84,1199,84,5,530000,465000,65000
+Hyundai$??%%%,Verna,6,9100,Individual,Petrol,Manual@#$%%^^&,17.01,1591,121.3,5,650000,585000,65000
+Honda,City,11,86000,Dealer,Petrol,Manual,17,1497,118,5,335000,290000,NULL
+Audi,A4,8,78000,Dealer,Diesel,Automatic,16.55,1968,147.51,5,1290000,1205000,85000
+Ford,Figo,10,60000,Individual,disel,Manual,20,1399,68,5,300000,280000,20000
+Maruti$^&***,Wagon R,2,7883,Trustmark Dealer,Petrol,Automatic,21.5,1197,81.8,5,550000,485000,65000
+unknown,Swift Dzire,8,50205,Trustmark Dealer,Diesel,Manual,23.4,1248,74,5,390000,345000,45000
+Mahindra,1,13,220000,Individual,Diesel,Manual,13.6,2523,63,7,260000,240000,20000
+Tata,2,4,58000,Dealer,Diesel,Manual,24.7,1047,69,5,395000,350000,45000
+Mahindra,Scorpio,9,170000,Individual,Dies,Manual,12.05,2179,120,8,550000,485000,65000
+Maruti,Swift Dzire,3,15000,Individual,Petrol,Ma,22,1197,81.8,5,650000,585000,65000
+Maruti,Swift,5,71245,Dealer,Diesel,Ma,28.4,1248,74,5,375000,330000,45000
+Kia,Seltos,2,7000,Individual,ptrol,Ma,16.1,1353,138,5,1300000,1215000,85000
+Maruti#$%@%^&*,Alto,3,20000,Individual,Petrol,Ma,23.95,998,67.05,5,360000,315000,45000
+Maruti,Celerio,1,8700,Individual,Petrol,Ma,21.63,998,67.04,5,505000,440000,65000
+Maruti,Alto,2,25000,Individual,Petrol,Manual,24.7,796,47.3,5,310000,265000,45000
+Hyundai,i20,6,42000,Dealer,Petrol,Manual,18.6,1197,81.86,5,545000,480000,65000
+Mahindra,Bolero,15,120000,Individual,Diesel,Manual,13.6,2523,63,7,150000,130000,20000
+Maruti,Baleno,3,50000,Individual,Petrol,Manual,21.4,1197,83.1,5,580000,515000,65000
+Maruti,Wagon R,10,58000,Individual,Petrol,Manual,18.9,998,67.1,5,250000,230000,20000
+Hyundai,Verna,4,36000,Individual,Petrol,Manual,17.43,1396,105.5,5,650000,585000,65000
+Maruti&&&&&,Ertiga,3,30000,Indiv,Diesel,Manual,25.47,1248,88.5,7,410000,365000,45000
+Ford,Ecosport,6,162828,Dealer,Diesel,Manual,22.77,1498,98.59,5,531000,466000,65000
+Ford,Ecosport,3,7500,Individual,Diesel,Manual,23,1498,98.96,5,890000,805000,85000
+Tata,Safari,5,47227,Dealer,Diesel,Manual,14,2179,138.1,7,775000,NULL,65000
+Maruti,Wagon R,3,52000,Dealer,CNG,Manual,33.54,998,67.04,5,435000,390000,45000
+Ford,Figo,9,74000,Dealer,Diesel,Manual,20,1399,68.05,5,185000,165000,20000
+Mahindra,Bolero,10,47000,Dealer,Diesel,Manual,15.96,2523,62.1,7,440000,395000,45000
+Hyundai88888,Grand%^&***,5,60000,Individual,Diesel,Manual,24,1120,70,5,400000,355000,45000
+Toyota,Innova,8,40000,Individual,Diesel,Manual,12.99,2494,100.6,8,850000,765000,NULL
+Hyundai,ajajaxsda,6,50000,Individual,Petrol,Manual,18.6,1197,81.83,5,unknown,405000,45000
+Maruti$#%^&&,Baleno,4,100000,Individual,Petrol,Ma,21.4,1197,83.1,5,600000,535000,65000
+s,Celerio,7,35000,Indivi*****,Petrol,Ma,23.1,998,67.04,5,320000,275000,45000
+Hyundai,i20,5,50000,Individual,Diesel,Ma,21.19,1396,88.73,5,700000,635000,65000
+Ford,Aspire,3,10000,Individual,Petrol,Ma,18.16,1196,86.8,5,630000,565000,65000
+Maruti,Alto,5,10370,Individual,Petrol,Ma,22.74,796,47.3,5,nan,275000,45000
+Honda,City,8,62000,Dealer,Petrol,Ma,16.8,1497,116.3,5,465000,420000,45000
+Hyundai,i20,5,40000,Individual,Petrol,Manual,18.6,1197,81.83,5,550000,485000,65000
+Maruti8888,Swift,4,60000,Individual,Petrol,Manual,22,1197,81.8,5,445000,400000,45000
+Tata,Safari,8,67231,Dealer,Diesel,Manual,14,2179,138.1,7,705000,640000,65000
+Maruti,Wagon R,8,64000,Dealer,CNG,Manual,33.54,998,67.04,5,270000,250000,20000
+Honda***,City,7,63000,Dealer,Diesel,Manual,26,1498,98.6,5,475000,430000,45000
+Toyota,Fortuner,6,80000,Individual,Diesel,Manual,12.55,2982,168.5,7,1755000,1670000,85000
+Honda,City$)$%)##(,10,55000,Dealer,Petrol,Manual,16.9,1497,100,5,350000,305000,45000
+Hyundai,i20,5,11000,Dealer92834478R,Petrol,Manual,18.6,1197,81.83,5,575000,510000,65000
+Renault,KWID,4,17000,Individual,Petrol,Manual,23.01,999,67,5,360000,315000,45000
+Maruti,Alto,4,25000,Individual,Petrol,Manu,24.7,796,47.3,5,275000,NULL,20000
+Datsun,GO,5,33350,Individual,Petrol,Manual,19.44,1198,67,7,320000,275000,45000
+Hyundai*!*@*@,Grand,6,62000,Dealer,Petrol,Manual,18.9,1197,82,5,370000,325000,45000
+Maruti,Swift Dzire,12,59000,Individual,Petrol,Manual,17.5,1298,85.8,5,275000,255000,20000
+N/A,City,7,86113,Dealer,Petrol,Manu,17.4,1497,117.3,5,550000,485000,65000
+Maruti,Swift Dzire,3,10000,Individual,Diesel,Manual,28.4,1248,74.02,5,750000,685000,65000
+Maruti,Wagon R,6,92537,Individual,Petrol,Manual,20.51,998,67.04,5,272000,252000,20000
+Maruti,Ciaz,2,27645,Dealer,Diesel,Manual,28.09,1248,88.5,5,951000,%%%%%866000,85000
+Maruti,Alto,8,46242,Individual,Petrol,Manual,20.92,998,67.1,5,280000,260000,20000
+Honda&&*&*,City,8,70000,Individual,Petrol,Manual,16.8,1497,116.3,5,545000,480000,65000
+Renault,KWID,1,6000,Individual,Petrol,Ma,22.3,799,53.26,5,450000,405000,45000
+Hyundai,i20,4,64000,Dealer,Petrol,Manual,18.6,1197,81.83,5,480000,435000,45000
+Mahindra,Scorpio,4,93000,Dealer,Diesel,Manual,15.4,1997,120,7,NA,975000,85000
+Maruti,Alto,8,26200,Dealer,Petrol,Manual,22.74,796,47.3,5,235000,215000,20000
+Maruti****,Baleno,4,25000,Individual,Petrol,Ma,21.4,1197,83.1,5,590000,525000,65000
+Toyota,Fortuner,3,50000,Dealer,Diesel,Automatic,12.9,2755,174.5,7,2950000,NA,85000
+Hyundai,Santro,13,80000,Individual,Petrol,Manual,17.92,1086,62.1,5,110000,90000,20000
+Mahindra,Scorpio,14,110000,Individual,Diesel,Manual,13.5,2179,115,5,280000,260000,20000
+Audi,A4,5,55000,Dealer,Petrol,Automatic,17.84,1395,147.51,5,1851000,1766000,85000
+Honda,City,3,25000,Individual,Petrol,Manual,17.4,1497,117.3,5,750000,685000,65000
+Hyundai,Grand,6,36000,Dealer,Petrol,Manual,18.9,1197,81.86,5,400000,355000,45000
+Maruti,Swift Dzire,6,40000,Individual,Diesel,Manual,26.59,1248,74,5,530000,465000,65000
+Mahindra!!!234,Thar,3,25000,Individual,Dies,Manual,16.55,2498,105,6,870000,785000,85000
+Renault,KWID,3,30038,Dealer,Petrol,Manual,25.17,799,53.3,5,295000,275000,20000
+Tata,Tiago,4,53000,Individual,Diesel,Manual,27.28,1047,69,5,370000,325000,45000
+!!@#$%%^Maruti,Swift,3,5000,Individual,Petrol,Manual,21.21,1197,81.8,5,530000,465000,65000
+Renault,KWID,4,35000,Individual,Petrol,Automatic,24.04,999,67,5,350000,305000,45000
+Ford,Ecosport,8,62000,Dealer,Diesel,Manual,22.7,1498,89.84,5,470000,425000,45000
+Ford,Aspire,6,42000,Individual&&&&&&&,Diesel,Manual,25.83,1498,99,5,390000,345000,45000
+Mahindra,Scorpio,6,80000,Individual,Diesel,Manual,15.4,2179,120,7,****920000,835000,85000
+Mahindra,XUV500,8,60000,Ind,Diesel,Manual,15.1,2179,140,7,550000,485000,65000
+Hyundai,Verna,7,45000,Individual,Diesel,Manual,22.32,1582,126.32,5,635000,570000,65000
+Mahindra,XUV500,4,50000,Dealer,Diesel,Automatic,16,2179,140,7,1250000,1165000,85000
+Maruti,Alto,3,12000,Individual,Petrol,Manual,24.7,796,47.3,5,300000,280000,20000
+Honda,UNKNOWN,3,12000,Individual,Petrol,Automatic,18,1497,117.6,5,960000,875000,85000
+Maruti,Vitara,3,15000,Individual,Diesel,Manual,24.3,1248,88.5,5,750000,685000,65000
+Volkswagen,!^&Polo,10,63000,Dealer,Petrol,Manual,16.47,nan,73.9,5,249000,229000,20000
+Tata,Hexa898988,3,30000,Individual,Diesel,Manual,17.6,2179,153.86,7,1400000,1315000,85000
+Ford,Figo,10,160800,Individual,Diesel,Manual,20,1399,68,5,250000,230000,20000
+Hyundai,Verna,7,120000,Individual,Diesel,Manual,22.32,1582,126.32,5,610000,545000,65000
+Ford%%%%%,Ecosport,5,78247,Dealer$$%%^,Diesel,Manual,21.7,1498,98.96,5,545000,480000,65000
+Hyundai,Verna,8,113000,Individual,Diesel,Manu,22.32,1582,126.3,5,480000,435000,45000
+Hyundai,i20,7,52000,Dealer,Petrol,Manu,18.6,1197,81.83,5,395000,350000,45000
+Toyota,Innova,9,109000,Dealer,Diesel,Manu,12.99,2494,100.6,7,495000,450000,45000
+Hyundai,Grand,4,90000,Individual,Petrol,Manu,18.9,1197,82,5,470000,425000,45000
+Volkswagen,Polo,10,98000,Dealer,Diesel,Manu,22.07,1199,73.9,5,200000,180000,20000
+Hyundai^&^&%^%^,i20,5,20000,Individual,Diesel,Manual,21.19,1396,88.73,5,699000,634000,65000
+Maruti,Wagon R,7,21717,Individual,Petrol,Manual,20.51,998,67.04,5,340000,295000,45000
+Renault,Duster,7,40000,Individual,Diesel,Manual,20.45,1461,83.8,5,500000,455000,45000
+Honda,City,4,50000,Individual,Petrol,Manual,17.14,1497,117.6,5,1050000,965000,85000
+Renault,Duster,5,90000,Individual,Diesel,Manual,19.6,1461,108.45,5,600000,535000,65000
+Maruti,Swift,4,27876,De,Petrol,Manual,20.4,1197,81.8,5,491000,446000,45000
+Land Rover,Rover,5,56000,Dealer,Petrol,Automatic,12.63,1999,177,5,2890000,2805000,85000
+Hyundai,i10,13,57215,Individual,Petrol,Manual,20.36,1197,78.9,5,160000,140000,20000
+Hyundai^^&^&,Venue,2,5400,Dealer,Petrol,Manual,18.27,998,118.35,5,985000,900000,85000
+Maruti,Swift Dzire,7,60000,Individual,Diesel,Manual,23.4,1248,74,5,500000,455000,45000
+Tata,Tiago,4,24800,Individual,Petrol,Manual,23.84,1199,84,5,335000,290000,45000
+Maruti,Alto,16,70000,Individual,Petrol,Manual,19.7,796,46.3,5,85000,75000,10000
+N/A,Jazz,3,20000,Dealer,Petrol,Automatic,17.1,1199,88.51,5,740000,675000,65000
+Maruti,Swift,8,34553,Dealer,Petrol,Manual,22,1197,81.8,5,375000,330000,45000
+Maruti,Vitara,3,40000,Individual,Diesel,Manual,24.3,1248,88.5,5,810000,725000,85000
+Volkswagen,Polo,11,350000,Indivi,Petrol,Manual,16.47,1198,73.9,5,173000,153000,20000
+Maruti,Vitara,4,50000,Individual,Diesel,Manu,24.3,1248,88.5,5,700000,635000,65000
+Mahindra&*%$,KUV,5,70000,Individual,Diesel,Manual,25.32,1198,77,6,310000,265000,45000
+Mahindra,Scorpio,4,120000,Individual,Diesel,Manual,15.4,1997,120,7,850000,765000,85000
+Hyundai,i20,8,90000,Individual,Diesel,Manua**,22.54,1396,88.76,5,285000,265000,20000
+Maruti,Swift Dzire,7,120000,Individual,Diesel,Manual,23.4,1248,74,5,450000,405000,45000
+Hyundai,Creta,4,80000,Individual,Diesel,Manual,19.67,1582,Unknown,5,1100000,1015000,85000
+Mahindra,Scorpio,4,30000,Individual,Diesel,Manual,15.4,1997,120,7,1080000,995000,85000
+Honda&!*@&*@6,City,7,66100,Dealer,Diesel,Manual,26,1498,98.6,5,530000,465000,65000
+Maruti,Swift Dzire,4,50000,Individual,Diesel,Manual,28.4,1248,74.02,5,680000,615000,65000
+Mahindra,Scorpio,4,42000,Dealer,Diesel,Manual,15.4,1997,120,7,1025000,940000,85000
+Hyundai,i20,4,55000,Individual,Petrol,Manual,18.6,1197,81.83,5,650000,585000,65000
+Hyundai,i10,9,110699,Dealer,Petrol,Manual,20.36,1197,78.9,5,194000,174000,20000
+Maruti,Baleno,2,5000,Individual,Petrol,amt,21.4,1197,83.1,5,686000,621000,65000
+Maruti,Alto,5,50000,Individual,Petrol,Manual,22.74,796,47.3,5,200000,180000,20000
+Maruti,Swift Dzire,11,44000,Dealer,Petrol,Manual,19.1,1197,85.8,5,n/A,230000,20000
+Maruti,Vitara,3,90000,Individual,Diesel,Manual,24.3,1248,88.5,5,730000,665000,65000
+Hyundai,Verna,5,55000,Dealer,Petrol,Manual,17.01,1591,121.3,5,650000,585000,65000
+Maruti,NULL,4,45000,Dealer,Diesel,Manual,24.3,1248,88.5,5,790000,725000,65000
+Maruti,Baleno,4,30000,Individual,Petrol,Manual,21.4,1197,83.1,5,620000,555000,65000
+Hyundai***9,Verna,8,50000,Individual,Petrol,Manu,17.01,1591,121.3,5,510000,445000,65000
+Maruti,Eeco,8,20000,Individual,Petrol,Manual,15.37,1196,73,5,375000,330000,45000
+Maruti,Swift Dzire,4,19843,Trustmark Dealer,Petrol,Automatic,21.21,1197,81.8,5,620000,555000,65000
+Ford,Endeavour,10,30000,Individual,Diesel,Automatic,11.4,2953,153.86,7,NULL,865000,85000
+Toyota,Innova,4,52300,Dealer&*&*&***,Diesel,Manual,13.68,2393,147.51,7,1450000,1365000,85000
+Honda,City,5,40000,Individual,Petrol,Automatic,18,1497,117.3,5,845000,760000,85000
+%%%%*Maruti,Swift Dzire,7,61500,Dealer,Diesel,Manual,23.4,1248,74,5,390000,345000,45000
+Honda,Amaze,6,59000,Dealer,Petrol,Manua,18,1198,86.7,5,395000,350000,45000
+Hyundai,Grand,3,40000,Individual,Petrol,Manual,18.9,NA,81.86,5,450000,405000,45000
+Audi,A6,8,60000,Individual,Diesel,Automatic,17.68,1968,174.33,5,1700000,1615000,NULL
+Hyundai,Grand,8,61000,Dealer,Petrol,Manu,18.9,1197,82,5,325000,280000,45000
+Mahindra,KUV,5,70000,Individual,Diesel,Manu,25.32,1198,77,6,350000,305000,45000
+Mahindra,XUV500,8,63000,Dealer,Diesel,Manu,15.1,2179,140,7,650000,585000,65000
+Mercedes-Benz,E-Class,9,58000,Dealer,Petrol,Manu,12.3,1796,185,5,1250000,1165000,85000
+Maruti,Swift Dzire,4,22000,Individual,Diesel,Manual,28.4,1248,74.02,5,750000,685000,65000
+Honda,City,11,57977,Dealer,Petrol,Manual,17,1497,118,5,299000,279000,20000
+Land Rover,Rover,3,13000,Dealer,Petrol,Automatic,12.19,1997,237.36,4,7000000,6915000,85000
+Mini,Cooper,9,67000,Dealer,Petrol,Automatic,17.33,1998,189.08,4,1325000,1240000,85000
+Maruti,Ertiga,7,48242,Dealer,Diesel,Manual,20.77,1248,88.76,7,524000,459000,65000
+Ford,Figo,9,68000,Dealer,Diesel,Manual,20,1399,68.05,5,169000,149000,20000
+Maruti,NULL,7,40000,Individual,Diesel,Manual,20.77,1248,88.8,7,500000,455000,45000
+Audi,Q7,9,98000,Dealer,Diesel,Automatic,12.07,2967,241.4,7,2000000,1915000,85000
+Maruti,Swift Dzire,8,113450,Individual,Diesel,Manual,23.4,1248,74,5,380000,335000,45000
+Maruti!@&@&!^&,Wagon R,3,80000,Individual,Petrol,Automatic,20.51,998,67,5,400000,355000,45000
+Hyundai,Santro,1,1000,Dealer,Petrol,Automatic,20.3,1086,68,5,565000,500000,65000
+Maruti,Wagon R,6,20292,Dealer,Petrol,Manual,20.51,998,67.04,5,335000,290000,45000
+Mahindra,Scorpio,11,67900,Dealer,Diesel,Manual,12.05,2179,120,7,300000,280000,20000
+Mahindra,Scorpio,6,40000,Dea,Diesel,Manual,15.4,1997,120,7,1051000,966000,85000
+Hyundai,Grand&&&&,4,60000,Individual,Diesel,Manual,24,1186,73.97,5,510000,445000,65000
+Renault,KWID,3,25000,Individual,Petrol,Automatic,24.04,999,67,5,370000,325000,45000
+Maruti,Wagon R,15,70000,Individual,Petrol,Manual,18.9,998,67.1,5,200000,180000,20000
+Maruti,Baleno,3,21000,Individual,Diesel,Manual,27.39,1248,74,5,NULL,560000,65000
+Mahindra,Scorpio,3,39000,Dealer,Diesel,Manual,16.36,2179,140,7,1290000,1205000,85000
+Hyundai,Creta,4,30000,Dealer,Petrol,Manual,15.8,1591,121.3,5,890000,805000,85000
+Hyundai*(!@*#&*#&@!^,Verna,9,61000,Dealer,Diesel,Manual,22.32,1582,126.3,5,420000,375000,45000
+Maruti,Swift,4,5743,Trustmark Dealer,Petrol,Manual,20.4,1197,83.11,5,500000,455000,45000
+Hyundai,Grand,3,24200,Individual,Petrol,Manual,18.9,1197,81.86,5,600000,535000,65000
+Maruti,Baleno,4,57000,Individual,Diesel,Manual,27.39,1248,74,5,NULL,525000,65000
+HyundaiAJRDFXFUIJE,i10,10,58000,Dealer,Petrol,Manual,20.36,1197,78.9,5,190000,170000,20000
+Datsun,GO,4,15000,Individual,Petrol,Manual,19.44,1198,67,7,500000,NULL,45000
+Maruti,Celerio,4,10000,Individual,Petrol,Manual,23.1,998,67.04,5,450000,405000,45000
+Mahindra,XUV500,6,100000,Individual,Diesel,Manual,15.1,2179,140,7,650000,585000,65000
+BMW,Z4,1,2000,Dealer,Petrol,Automatic,11.29,2998,335,2,8250000,8165000,85000
+Maruti&&&&&&,Wagon R,1,10000,Indivi,Petrol,Manual,20.52,1197,81.8,5,500000,455000,45000
+Maruti,Alto,12,43000,Individual,Petrol,Manual,19.7,796,46.3,5,140000,120000,20000
+Honda,Amaze,8,64000,Dealer,CNG,Manual,18,1198,86.7,5,349000,304000,45000
+Maruti,Wagon Rrt%%%,7,30000,Individual,Petrol,Manual,20.51,998,67.06,5,325000,280000,45000
+Honda,City,7,63000,Dealer,Petrol,Manual,17.8,1497,117.3,5,435000,390000,45000
+Maruti***&&&,Celerio,3,28000,Dealer,CNG,^^&^%^Manual,31.79,998,58.33,5,455000,410000,45000
+Land Rover,Unknown,3,25000,Individual,Petrol,Automatic,9.17,2995,335.25,7,NULL,6115000,85000
+Honda,City,4,32226,Dealer,Petrol,Manual,17.8,1497,117.3,5,755000,690000,65000
+Maruti,Alto##@@,7,65000,Individual,Petrol,Manual,23.95,998,67.05,5,245000,225000,20000
+Kia,Seltos,2,14000,Dealer,Diesel,Manual,20.8,1493,113.4,5,1350000,1265000,85000
+Renault&&&^%%,KWID,3,15000,Individual,Petrol,Automatic,24.04,999,67,5,310000,NULL,45000
+BMW,6,3,30000,Individual,Petrol,Automatic,14.28,1998,254.7,4,5500000,5415000,85000
+Maruti,Swift Dzire,3,32000,Dealer,Diesel,Manual,19.3,1248,73.9,5,675000,610000,nil
+Maruti,Wagon R,2,30000,Individual,Pet,Manual,20.52,1197,81.8,5,500000,455000,45000
+Hyundai,i10,11,25000,Individual&^&%$%,Petrol,Manual,20.36,1197,78.9,5,300000,280000,20000
+Mahindra,Scorpio,5,35000,Individual,Diesel,Automatic,15.4,2179,120,7,nan,1365000,85000
+Mahindra,Scorpio,8,140000,Individual,Diesel,Manual,12.05,2179,120,8,530000,465000,65000
+Ford,Ecosport,7,65597,Trustmark Dealer,Diesel,Manual,22.7,1498,89.84,5,575000,510000,65000
+Hyundai,i20,4,35000,Individual,Petrol,Manual,18.6,1197,81.83,5,550000,485000,nan
+Maruti,Ciaz,7,160000,Individual,Diesel,Manual,26.21,1248,88.5,5,500000,455000,45000
+Maruti,Baleno,1,7124,Individual,Pet,Manual,21.01,1197,81.8,5,643000,578000,65000
+Ford,Ecosport,2,15000,Individual,Pet,Manual,18.1,999,123.24,5,1000000,915000,85000
+Hyundai,Grand,5,34000,Individual,Pet,Manual,18.9,1197,82,5,550000,485000,65000
+Volkswagen,Vento,10,280000,Individual,Diesel,Manual,20.54,1598,103.6,5,NULL,280000,20000
+Tata,Tigor,3,40000,Individual,Petrol,Manual,20.3,1199,84,5,470000,425000,45000
+Honda,City,7,77000,Dealer,Diesel,Manual,26,1498,98.6,5,525000,460000,65000
+Datsun,GO,4,15000,Individual,Petrol,Manual,19.44,1198,67,7,469000,424000,45000
+Maruti#!@@#$$,Alto,9,60000,Individual,Petrol,Manual,20.92,998,67.1,5,210000,190000,20000
+Maruti,Alto,8,120000,Individual,Petrol,Manual,22.74,796,47.3,5,200000,180000,20000
+Renault,#$%^^&KWID,2,2500,Individual,Petrol,Manual,23.01,999,67,5,400000,355000,45000
+Jaguar,XF,8,50000,Dealer,Diesel,Automatic,16.36,2179,187.7,5,2150000,2065000,85000
+Maruti,Celerio,5,46500,Individual,Petrol,Manual,23.1,998,67.04,5,340000,295000,45000
+Maruti,Alto,16,5000,Individual,Petrol,Manual,19.7,796,46.3,5,95000,85000,10000
+Maruti,Swift,9,68000,Individual,Diesel,Manual,22.9,1248,74,5,381000,336000,45000
+Mercedes-Benz,C-Class,10,45000,Dealer,Diesel,Automatic,14.94,2143,204,5,NULL,710000,65000
+Maruti,Swift Dzire,4,20000,Individual,Diesel,Manual,28.4,1248,74.02,5,700000,635000,65000
+Maruti,Ciaz,4,106000,Dealer,Diesel,Manual,28.09,1248,88.5,5,675000,610000,65000
+Honda,City,6,28000,Dealer,Petrol,Automatic,18,1497,117.3,5,670000,605000,65000
+Mahindra,XUV500,3,50000,Individual,Diesel,Manual,16,NA,140,7,1050000,965000,85000
+BMW,X5,2,19000,Individual,Diesel,Automatic,13.38,2993,265,5,7900000,7815000,85000
+Honda,City&&^$$%^,10,55000,Dealer,Petrol,Manual,17,1497,118,5,360000,315000,45000
+Ford,Figo,4,53000,Individual,Diesel,Manual,25.83,1498,99,5,400000,355000,45000
+Hyundai!@#%^&**,Verna,7,89000,Dealer,Diesel,Manual,22.32,1582,126.32,5,470000,425000,45000
+Maruti,Alto,3,22000,Individual,Petrol,Manual,24.7,796,47.3,5,304000,259000,45000
+Honda^&&**,City,7,69000,Dealer,Diesel,Manual,26,1498,98.6,5,490000,445000,45000
+Mahindra,Scorpio,5,155000,Individual,Diesel,Manual,15.4,1997,120,7,864000,779000,85000
+Mahindra,NA,8,85000,Dealer,Diesel,Manual,16,2179,140,7,480000,435000,45000
+Maruti,Wagon R,2,3600,Dealer,Petrol,Automatic,20.52,1197,81.8,5,575000,510000,65000
+Maruti,Baleno,2,5000,Individual,Petrol,Automatic,21.4,1197,83.1,5,686000,621000,65000
+Toyota,Innova,6,143000,Dealer,Diesel,Manual,12.99,2494,100,7,780000,715000,65000
+Audi,A6,3,24000,Dealer,Diesel,Automatic,17.68,1968,174.33,5,3490000,3405000,85000
+MG,Hector,2,28000,Dealer,Diesel,Manual,17.41,1956,167.68,5,1699000,1614000,85000
+Maruti,Swift,2,44000,Individual,Diesel,Manual,28.4,1248,74,5,800000,735000,65000
+Maruti,Baleno828347,3,10000,Individual,Petrol,Automatic,21.4,1197,83.1,5,680000,615000,65000
+Toyota,Fortuner,11,200000,Individual,Diesel,Manual,11.5,2982,171,7,1200000,1115000,85000
+Toyota777777,Innova,9,187031,Dealer,Diesel,Manual,12.99,2494,100,8,525000,460000,65000
+Ford,Ecosport,2,22346,Dealer,Petrol,Manual,17,1497,121.36,5,955000,870000,85000
+Hyundai,i20,9,120000,Individual,Diesel,Manual,21.9,1396,90,5,350000,305000,45000
+Maruti,Vitara,1,1000,Dealer,Petrol,Manual,17.03,1462,103.26,5,800000,735000,65000
+Maruti,Alto,16,56700,Individual,Petrol,Manual,19.7,796,46.3,5,75000,65000,10000
+Mahindra,XUV500,6,170000,Individual,Diesel,Manual,16,2179,140,7,825000,740000,85000
+Mahindra,Marazzo,2,60000,Individual,Diesel,Manual,17.3,1497,121,8,1476000,1391000,85000
+Honda,Jazz,3,40000,Dealer,Petrol,Automatic,18.2,1199,88.7,5,670000,605000,65000
+Maruti,Alto,9,28000,Dealer,Petrol,Manual,19.7,796,46.3,5,180000,160000,20000
+Hyundai^$%!%@%^@%,Grand,4,35000,Individual,Petrol,Manual,18.9,1197,81.86,5,490000,445000,45000
+Maruti,Baleno,4,&^$%$$$$20000,Individual,Petrol,Man,21.4,1197,83.1,5,550000,485000,65000
+Hyundai,i10,7,40000,Individual,Petrol,Manual,20.36,1197,78.9,5,350000,305000,45000
+Toyota,Innova,2,35000,Individual,Diesel,Manual,13.68,2393,147.8,8,1500000,1415000,85000
+Ford,Figo,9,74000,Dealer,Diesel,Manual,20,1399,68.05,5,190000,170000,20000
+NULL,Duster,7,46500,Individual,Diesel,Man,20.45,1461,83.8,5,460000,415000,45000
+Maruti,Swift()!@*(#*@*!@q,2,8000,Dealer,Petrol,Auto,21.21,1197,81.8,5,650000,585000,65000
+Maruti,Ciaz,5,120000,Individual,Diesel,Manual,28.09,1248,88.5,5,700000,635000,65000
+Maruti@#$%^^&,Swift,4,34000,Individual,Petrol,Manual,20.4,1197,NA,5,455000,410000,45000
+Maruti,Swift,7,54000,Dealer,Petrol,Manual,22,1197,81.8,5,365000,320000,45000
+NULL,Swift Dzire,7,11275,Dealer,Pet,Manual,19.1,1197,85.8,5,470000,425000,45000
+Toyota,Fortuner^%^$#$,3,35000,Dealer,Pet,Automatic,12.9,2755,174.5,7,2950000,2865000,85000
+Maruti,Swift,9,48000,Individual,Diesel,Manual,22.9,1248,74,5,400000,355000,45000
+Renault,Duster,6,68000,Dealer,Diesel,Manual,19.87,1461,83.8,5,550000,485000,65000
+Honda,Civic,2,23000,Dealer,Petrol,Automatic,13.9,1799,130.2,5,1519000,1434000,85000
+Maruti,Swift Dzire,3,31500,Individual,Diesel,Automatic,28.4,1248,74.02,5,740000,675000,65000
+Honda,Amaze,8,73000,Dealer,Diesel,Manual,25.8,1498,98.6,5,325000,280000,45000
+Hyundai,Grand,1,10000,Individual,Petrol,Automatic,20.7,1197,81.86,5,600000,535000,65000
+Honda*!@^&#^,Amaze,8,208000,Individual,Diesel,Manual,25.8,1498,98.6,5,300000,280000,20000
+Hyundai,i10,11,30000,Individual,Petrol,Man,20.36,1197,NA,5,300000,280000,20000
+Maruti,Wagon R,5,83000,Dealer,CNG,Manual,26.6,998,58.16,5,345000,300000,45000
+Mahindra,Scorpio,3,60000,Individual,Diesel,Manual,15.4,2523,75,7,nan,815000,85000
+Mahindra,XUV500,5,83000,Dealer,Diesel,Manual&!^@^!@!^,16,1997,140,7,1025000,940000,85000
+Isuzu,D-Max,4,58132,Dealer,Diesel,Manual,12.4,2499,134,5,1450000,1365000,85000
+Maruti,Swift,6,34000,Individual,Petrol,Manual,20.4,1197,81.8,5,400000,355000,45000
+Honda,Amaze,7,45120,Dealer,Diesel,Manual,25.8,1498,98.6,5,367000,322000,45000
+Hyundai,Grand,2,15000,Individual,Petrol,Automatic,18.9,1197,81.86,5,535000,470000,65000
+!@$%^^&Maruti,Ertiga,2,15000,Individual,Petrol,Manual,19.34,1462,103,7,805000,720000,85000
+MG,Hector,1,1000,Dealer,Petrol,Manual,15.81,1451,141,5,1488000,1403000,85000
+Hyundai,i10,9,64000,Individual,Petrol,Manual,20.36,1197,78.9,5,250000,230000,20000
+Mercedes-Benz,E-Class,10,98000,Dealer,Diesel,Automatic,14.21,2143,203,5,700000,635000,65000
+Hyundai,i20,6,35213,Dealer,Diesel,Manual,22.54,1396,88.73,5,535000,470000,65000
+Maruti,Vitara,5,65000,Dealer,Diesel,Manual,24.3,1248,88.5,5,NULL,610000,65000
+Maruti,Swift,6,84000,Dealer,Diesel,Manual,28.4,1248,74,5,425000,380000,45000
+Maruti,Alto,6,33000,Individual,Petrol,Man,22.74,796,47.3,5,260000,240000,20000
+Honda,!@#$%^City,5,55670,Dealer,Petrol,Manual,17.8,1497,117.3,5,700000,635000,65000
+Maruti,Baleno,4,50000,Individual,Diesel,Manual,27.39,1248,74,5,560000,495000,65000
+Hyun,Verna,15,148000,Individual,Diesel,Manual,16.8,1493,110,5,155000,135000,20000
+!@#$%^^Porsche,Cayenne,5,47000,Dealer,Diesel,Automatic,15.15,2967,240,5,5975000,5890000,85000
+Maruti,Ertiga,2,18000,Dealer,Petrol,Manual,19.01,1462,103.26,7,800000,735000,65000
+BMW,3,10,52420,Dealer,Diesel,Automatic,22.69,1995,190,5,750000,685000,65000
+Hyundai,Grand,6,10000,Individual,Petrol,Manual,18.9,1197,82,5,350000,305000,45000
+Toyota,Innova,5,40000,Individual,Diesel,Manual,13.68,2393,147.8,8,1380000,1295000,85000
+Mahindra,Scorpio@#!$%@^,6,50000,Individual,Diesel,Manual**!&@^,15.4,2179,120,7,1000000,915000,85000
+Maruti,Ertiga,3,50000,Individual,Petrol,Manual,17.5,1373,91.1,7,700000,635000,65000
+Maruti,Swift Dzire,12,76963,Individual,Petrol,Manual,17.5,1298,85.8,5,230000,210000,20000
+BMW&%^%$#$,5,5,52890,Dealer,Diesel,Automatic,18.12,1995,190,5,2800000,2715000,85000
+Maruti,Alto,5,45000,Dealer,CNG,Manual,30.46,796,47.3,5,350000,305000,45000
+Maruti,Baleno,3,25000,Individual,Diesel,Manual,27.39,1248,74,5,825000,740000,85000
+Renault,KWID,3,10103,Dealer,Petrol,Manual,25.17,799,53.3,5,325000,280000,45000
+BMW,X1,7,24000,Dealer,Diesel,Automatic,17.05,1995,184,5,1675000,1590000,NULL
+Mahindra,XUV500,7,47240,Dealer,Diesel,Manual,15.1,2179,140,7,800000,735000,65000
+Maruti,Celerio,2,30000,Individual,Petrol,Manual,23.1,998,67.04,5,400000,355000,45000
+Toyota,Innova,3,58000,Dealer,Diesel,Manual,13.68,2393,147.51,7,1750000,1665000,85000
+Audi,A4,8,65000,Dealer,Diesel,Automatic,16.55,1968,147.51,5,1200000,1115000,85000
+Hyundai,i20,6,35213,Dealer,Diesel,Manual,22.54,1396,88.73,5,535000,470000,65000
+Hyundai,Grand,6,35000,Individual,Petrol,Manual,18.9,1197,82,5,356000,311000,45000
+Mahindra,XUV500,9,92000,Dealer,Diesel,Manual,16,2179,140,7,550000,485000,65000
+Maruti,Eeco,3,34500,Dealer,CNG,Manual,21.94,1196,61.7,5,NULL,315000,45000
+Maruti,Ertiga,4,50000,Individual,Diesel,Manual,24.52,1248,88.5,7,700000,635000,65000
+Hyundai8888,Grand,5,30000,Individual^^^^,Petrol,Manual,18.9,1197,82,5,390000,345000,45000
+Toyota,Fortuner,9,51000,Dealer,Diesel,Automatic,12.55,2982,168.7,7,1245000,1160000,85000
+Mahindra,XUV500,4,60000,Individual,Diesel,Automatic,16,2179,140,7,1150000,1065000,85000
+Maruti,Wagon R,10,83000,Dealer,Petrol,Manual,18.9,998,67.1,5,180000,160000,20000
+Skoda,Rapid,7,70000,Dealer,Petrol,Manual,15,1598,103.52,5,425000,NULL,45000
+Ford,Freestyle,2,50000,Indi*****vidual,Petrol,Manual,19,1194,94.68,5,650000,585000,65000
+Maruti,Swift,9,60000,Individual,Diesel,Manual,22.9,1248,74,5,400000,355000,45000
+Honda,City,12,51000,Dealer,Petrol,Manual,17,1497,118,5,275000,255000,20000
+Maruti,Alto,10,40000,Individual,Petrol,Manual,19.7,796,46.3,5,170000,150000,20000
+Skoda********,Superb,11,100000,Individual,Petrol,Manual,13.14,1798,157.8,5,235000,215000,20000
+Mercedes-Benz,C-Class,10,160000,Individual,Diesel,Automatic,14.84,2143,170,5,700000,635000,65000
+Maruti,Alto,7,70000,Individual,Petrol,Manual,23.95,998,67.05,5,250000,230000,20000
+Maruti,Swift,8,70000,Individual,Petrol,Manual,18.6,1197,85.8,5,350000,305000,45000
+Hyundai,i20,5,50000,Individual^!q%^@%,Petrol,Manual,18.6,1197,81.83,5,480000,435000,45000
+Maruti,Swift Dzire,4,30000,Dealer,Petrol,Automatic,21.21,1197,81.8,5,690000,625000,65000
+Maruti,Ciaz,6,60000,Individual,Diesel,Manual,26.21,1248,88.5,5,670000,605000,65000
+Maruti,Alto,10,50000,Individual,Petrol,Manual,20.92,998,67.1,5,250000,230000,20000
+Mahindra(&!^@#^!@,Scorpio,4,42000,Dealer,Diesel,Manual,15.4,2523,75,7,935000,850000,85000
+Hyundai,Verna,2,15000,Individual,Petrol,Manual,17,1591,121.3,5,1030000,945000,85000
+Maruti,Wagon R,16,33650,Individual,Pe,Manual***%^^ty,18.9,998,67.1,5,110000,90000,20000
+Hyundai,i20,6,35000,Individual,Petrol,Manual,18.6,1197,81.83,5,470000,425000,45000
+Maruti,Swift,6,30000,Individual,Petrol,Manual,20.4,nan,81.8,5,370000,325000,45000
+#$%&&*!@*!@Maruti,Celerio,3,100000,Individual,Petrol,Automatic,23.1,998,67.04,5,450000,405000,45000
+Maruti,Wagon R,5,58000,Dealer,CNG,Manual,26.2,998,58.2,5,275000,255000,20000
+Maruti,Swift Dzire,2,4000,Individual,Petrol,Automatic,21.21,1197,81.8,5,731000,666000,65000
+Maruti,Wagon R,5,60000,Individual,Petrol,Manual,20.51,998,67.04,5,NULL,335000,45000
+Tata,Nexon,3,60000,Individual,Diesel,Manual,21.5,1497,108.5,5,NULL,815000,85000
+Honda,Amaze,5,34000,Dealer,Petrol,&*&@&!@Manual***,18,1198,86.7,5,NULL,455000,45000
+Datsun@#%^&&&,GO,4,42000,Individual,Petrol,Manual,20.63,1198,67.06,5,330000,285000,45000
+Tata,Hexa,3,60000,Individual,Di,Manual,17.6,2179,153.86,7,1400000,1315000,85000
+Hyundai,Verna,8,80000,Individual,Diesel,Manual,22.32,1582,126.3,5,540000,475000,65000
+Mahindra,Bolero,13,120000,Individual,Diesel,Manual,13.6,2523,63,7,375000,330000,45000
+Toyota,Fortuner**!@&!@&,5,50000,Dealer,Petrol,Automatic,10.26,2694,163.7,7,2600000,2515000,85000
+Ford,Ecosport,5,35200,Dealer,Petrol,Automatic,14.7,1496,120.69,5,725000,660000,65000
+Hyundai,i20,1,3700,Trustmark Dealer,Petrol,Manual,18.6,1197,81.86,5,765000,700000,65000
+Maruti@#%^^&,Wagon R,5,25000,Individual,Petrol,Manual,20.51,998,67.04,5,380000,335000,45000
+Toyota,Fortuner,4,64000,Dealer,Diesel,Automatic,12.9,2755,174.5,7,2625000,2540000,NULL
+Mahindra,XUV500,8,50000,Dealer,Diesel,Manual,15.1,2179,140,7,621000,556000,NULL
+Maruti,Swift Dzire,2,15000,Individual,Pet,Manual,21.21,1197,81.8,5,600000,535000,NULL
+Mahindra,XUV300,2,30000,Individual,Pet,Manual,17,1197,110,5,1130000,1045000,NULL
+Maruti,Swift Dzire,1,35000,Individual,Petrol,Manual,21.21,1197,81.8,5,670000,605000,65000
+Ford,Endeavour,4,62876,Dealer,Diesel,Automatic,10.91,3198,197,7,2875000,2790000,85000
+Honda,Amaze,6,70000,Individual,Diesel,Manual,25.8,1498,98.6,5,350000,305000,45000
+Maruti,Swift Dzire,6,84003,Individual,Diesel,Manual,26.59,1248,74,5,530000,465000,65000
+$@#@@%&Mahindra,Thar,4,55000,Dealer,Diesel,Manual**^&%^,16.55,2498,NULL,6,850000,765000,85000
+Maruti,Alto,5,42000,Dealer,CNG,Manual,33.44,796,40.3,4,260000,240000,20000
+Maruti,Alto,8,31000,Dealer,Petrol,Manual,20.92,998,67.1,5,230000,210000,20000
+Ford,Ecosport,8,80000,Dealer,Diesel,Manual,22.7,1498,89.84,5,475000,430000,45000
+Tata,Nexon,2,6000,Individual,Petrol,Manual,17,1198,108.5,5,750000,685000,65000
+Land Rover,Rover,2,12000,Dealer,Diesel,Automatic,12.63,2179,147.5,5,4000000,3915000,85000
+Skoda,Superb,8,65000,Dealer,Diesel,Manual,17.2,1968,138.1,5,499000,454000,45000
+Honda,Jazz,4,30000,Dealer,Petrol,Manual,18.7,1199,88.7,5,525000,460000,65000
+Maruti,Celerio,2,30000,Individual,Petrol,Manual,23.1,998,67.04,5,400000,355000,45000
+Toyota,Innova,3,58000,Dealer,Diesel,Manual,13.68,2393,147.51,7,1750000,1665000,85000
+^^^^^Hyundai,i20,7,10000,Individual,Petrol,Manual,18.6,1197,81.83,5,535000,470000,65000
+Maruti,Dzire VXI,5,62150,Dealer,Petrol,Manual,23.26,1197,88.5,5,485000,440000,45000
+Mahindra,XUV500,6,47300,Dealer,Diesel,Manual,15.1,2179,140,7,745000,680000,65000
+Ford,Aspire,6,63000,Dealer,Diesel,Manual,25.83,1498,99,5,475000,430000,45000
+Hyundai,Grand,7,80000,Individual,Diesel,Manual,24,1120,70,5,300000,280000,20000
+Volvo,S90,5,20400,Dealer,Diesel,Automatic,18,1969,190,5,3650000,3565000,85000
+Maruti,Alto,5,71000,Dealer,Petrol,Manual,24.7,796,47.3,5,299000,279000,20000
+Maruti,Ertiga,4,52000,Dealer,Diesel,Manual,24.52,1248,88.5,7,695000,630000,65000
+Hyundai,i20,8,70000,Individual,Petrol,Manual,18.5,1197,82.85,5,400000,355000,45000
+Hyundai,Grand,1,20000,Individual,Petrol,Manual,20.7,1197,81.86,5,650000,585000,65000
+Hyundai,Grand,6,70000,Individual,Diesel,Manual,24,1120,70,5,nan,410000,45000
+Maruti,Wagon R,13,100000,Individual,Petrol,Manual,18.9,1061,67,5,nan,130000,20000
+Honda,Amaze,3,50000,Individual,Petr,Manual,17.8,1198,86.7,5,nan,485000,65000
+Hyundai,i20,6,67000,Dealer,Diesel,Manual,22.54,1396,88.73,5,nan,455000,45000
+Hyundai,Verna,8,70000,Dealer,Diesel,Manual,22.32,1582,126.3,5,nan,320000,45000
+Honda,Amaze,2,21100,Dealer,Petrol,Automatic,18.1,1199,88.7,5,775000,710000,65000
+Hyundai,Grand,6,50000,Individual,Petrol,Manual,18.9,1197,82,5,310000,265000,45000
+Hyundai,Venue,2,27594,Trustmark Dealer,Petrol,Manual,18.27,998,118.35,5,995000,910000,85000
+Hyundai,i10,9,70000,Individual,Petrol,Manual,19.81,1086,68.05,5,190000,170000,20000
+Toyota,Innova,5,37000,Dealer,Diesel,Automatic,11.36,2755,171.5,7,1575000,1490000,85000
+Honda,WR-V,2,25000,Individual,Petrol,Manual,17.5,1199,88.7,5,906000,821000,85000
+Ford,Ecosport,4,35000,Individual,Diesel,Manual,23,1498,98.96,5,785000,720000,65000
+Maruti,Alto,10,11266,Dealer,Petrol,Manual,20.92,998,67.1,5,235000,215000,20000
+Maruti,XL6,2,12005,Dealer,Petrol,Automatic,17.99,1462,103.2,6,1200000,1115000,NAN
+Mahindra,Bolero,8,80000,Individual,Diesel,Manual,15.96,2523,62.1,7,470000,425000,NAN
+Honda,City,10,119000,Individual,Petrol,Manual,17,1497,118,5,400000,355000,NAN
+Kia,Seltos,1,3500,Dealer,Petrol,Automatic,16.8,1497,113.4,5,1490000,1405000,NAN
+Maruti,Baleno,2,11000,Dealer,Petrol,Manual,21.4,1197,83.1,5,535000,470000,NAN
+Skoda,Rapid,5,47612,Dealer(((((,Diesel,Manual,21.13,1498,108.6,5,590000,525000,NAN
+Renault,KWID,5,41000,Individual,Petrol,Manual,25.17,799,53.3,5,235000,215000,NAN
+Hyundai,Creta,2,21000,Dealer,Petrol,Manual,15.8,1591,121.3,5,1250000,1165000,85000
+Maruti^&^&&&*,Wagon R,6,120000,Individual,Petrol,Manual,20.51,998,67.04,5,300000,280000,20000
+BMW,X1,2,22450,Dealer,Diesel,Automatic,20.68,1995,190,5,3011000,2926000,85000
+Maruti,Swift,1,10000,Individual,Petrol,Manual,21.21,1197,81.8,5,615000,550000,65000
+Renault,KWID,5,50000,Individual,Petrol,Manual,25.17,799,53.3,5,250000,230000,20000
+Mahindra,XUV500,6,42000,Dealer,Diesel,Manual,16,2179,140,7,925000,840000,85000
+Maruti,Swift Dzire,2,14000,Dealer,Diesel,Manual,19.3,1248,73.9,5,725000,660000,65000
+Renault,KWID,3,10000,Individual,Petrol,Manual,23.01,999,67,5,350000,305000,45000
+Maruti,Wagon R,4,70000,Individual,Petrol,Manual,20.51,998,67.04,5,360000,315000,45000
+Honda,City,6,70000,Individual,Diesel,Manual,25.1,1498,98.6,5,700000,635000,65000
+Mahindra,XUV500,3,50000,Individual,Diesel,Automatic,15.1,2179,152.87,7,1300000,1215000,85000
+Volkswagen,Polo,10,64471,Dealer,Petrol,Manual,15.26,1598,103.5,5,285000,265000,20000
+Maruti,Wagon R,17,50000,Individual,Petrol,Manual,18.9,998,67.1,5,62000,52000,10000
+Maruti,Ignis,3,20000,Individual,Petrol,Automatic,20.89,1197,81.8,5,550000,485000,65000
+Honda,Amaze,4,33869,Dealer,Petrol,Manual,17.8,1198,86.7,5,527000,462000,65000
+Mahindra,Bolero,9,63497,Individual,Diesel,Manual,15.96,2523,62.1,7,396000,351000,45000
+Maruti,Swift Dzire,7,70000,Individual,Petrol,Manual,19.1,1197,85.8,5,384000,339000,45000
+Hyundai,i10,12,67000,Individual,Petrol,Manual,20.36,1197,78.9,5,210000,190000,20000
+Maruti,Swift,6,50000,Individual,Diesel,Manual,25.2,1248,74,5,500000,455000,45000
+Datsun,RediGO,3,20000,Individual,Petrol,Manual,22.7,799,53.64,5,210000,190000,20000
+Hyundai,Verna,9,57000,Dealer,Petrol,Manual,17.01,1591,121.3,5,425000,380000,45000
+Mahindra,Bolero,10,30000,Individual,Diesel,Manual,13.6,2523,63,7,425000,380000,45000
+Maruti7777,Swift Dzire,3,80000,Individual,Diesel,Automatic,28.4,1248,74.02,5,495000,450000,45000
+Maruti,Alto,5,50000,Individual$$##^*,Petrol,Manual,24.7,796,47.3,5,220000,200000,20000
+Tata,Safari,10,190000,Individual,Diesel,Ma,11.57,2179,138.1,7,218000,198000,20000
+Mahindra,Bolero,3,60000,Individual,Diesel,Manual,15.96,2523,62.1,7,750000,685000,65000
+Maruti,Ciaz,4,60000,Dealer,Petrol,Automatic,19.12,1373,91.1,5,715000,650000,65000
+Audi,A6,7,21000,Dealer,Diesel,Automatic,17.68,1968,174.33,5,1800000,1715000,85000
+Maruti,Alto,1,5000,Individual,Petrol,Manual,22.05,796,47.3,5,350000,305000,45000
+Renault,KWID,2,25000,Individual,Petrol,Manual,25.17,799,53.3,5,300000,280000,20000
+Maruti,Alto,11,100000,Individual,Petrol,Manual,20.92,998,67.1,5,168000,148000,20000
+Land Rover,Rover,9,175000,Individual,Diesel,Automatic,11.8,2993,241.6,7,2500000,2415000,85000
+Mercedes-Benz,E-Class,9,86500,Dealer,Die,Automatic,14.21,2143,203,5,1400000,1315000,85000
+Maruti,Swift Dzire,9,120000,Individual,Diesel,Manual,19.3,1248,73.9,5,350000,305000,45000
+Hyundai,Verna,8,76300,Individual,Diesel,Manual,22.32,1582,126.32,5,480000,435000,45000
+Renault,KWID,2,10000,Individual,Petrol,Automatic,24.04,999,67,5,400000,355000,45000
+Hyundai!@#$%^&,Grand,2,36000,Dealer,Petrol,Manual,18.9,1197,81.86,5,495000,450000,45000
+Mahindra,KUV,5,26000,Individual,Petrol,Manual,18.15,1198,82,6,420000,375000,45000
+Maruti,Swift Dzire,3,100000,Individual,Diesel,Manual,23.4,1248,74,5,531000,466000,65000
+Ford,Ecosport,2,4000,Individual,Petr,Manual,17,1497,121.36,5,NULL,735000,65000
+Maruti,Swift Dzire,6,86000,Individual,Diesel,Manual,26.59,1248,74,5,550000,485000,65000
+Volkswagen,Vento,9,81000,Dealer,Diesel,Manual,20.54,1598,103.6,5,465000,420000,45000
+Maruti,Alto,9,41321,Dealer,Petrol,Manual,19.7,796,46.3,5,185000,165000,20000
+Mahindra,Bolero,10,46000,Individual,Diesel,Manual,13.6,2523,63,7,340000,295000,45000
+Honda,City,12,75000,Dealer,Petrol,Manual,16.9,1497,100,5,340000,295000,NULL
+Maruti,Wagon R,12,113000,Dealer,Petrol,Manual,21.79,998,67.05,5,135000,115000,20000
+Hyundai,Verna,3,15000,Dealer,Diesel,Automatic,19.08,1582,126.2,5,1225000,1140000,85000
+Honda,Amaze,6,16942,Dealer,Petrol,Manual,18,1198,86.7,5,439000,394000,45000
+Honda,Jazz,5,29484,Dealer,Petrol,Manual,18.7,1199,88.7,5,465000,420000,45000
+Maruti,Swift Dzire,6,84405,Individual,Diesel,Manual,26.59,1248,74,5,530000,465000,65000
+Maruti,Swift Dzire,4,30000,Individual,Petrol,Manual,21.21,1197,81.8,5,650000,585000,65000
+Maruti,Swift,4,14838,Individual,Petrol,Manual,22,NULL,81.8,5,525000,460000,65000
+Honda,City,3,31318,Trustmark Dealer,Petrol,Manual,17.8,1497,117.3,5,885000,800000,85000
+Maruti,Wagon R,14,63000,Dealer,Petrol,Manual,21.79,998,67.05,5,120000,100000,20000
+Toyota,Innova,9,120000,Individual,Diesel,Manual,12.99,2494,100,7,860000,775000,85000
+Maruti,Vitara,5,50000,Individual,Diesel,Manual,24.3,1248,88.5,5,810000,725000,85000
+Maruti,Swift Dzire,9,74600,Individual,Diesel,Manual,19.3,1248,73.9,5,410000,365000,45000
+Tata,Safari,12,80000,Individual,Diesel,Manual,13.93,2179,138.1,7,175000,155000,20000
+Maruti,Swift Dzire,6,66000,Dealer,Petrol,Manual,20.85,1197,83.14,5,400000,355000,45000
+Honda,City,3,31543,Dealer,Petrol,Manual,16.8,NULL,116.3,5,875000,790000,85000
+Toyota&&&&&&,Innova,3,80000,Individual,Diesel,Manual,13.68,2393,147.8,8,1350000,1265000,85000
+Maruti,Swift,7,60000,Individual,Diesel,Manual,25.2,1248,74,5,450000,405000,45000
+Honda,City,6,50000,Individual,Diesel,Manual,25.1,1498,98.6,5,700000,635000,65000
+Audi,Q7,8,28000,Dealer,Diesel,Automatic,12.07,2967,241.4,7,2650000,2565000,85000
+Maruti,Swift Dzire,9,60000,Individual,Petrol,Manual,17.5,1197,85.8,5,350000,305000,45000
+Maruti,Celerio,3,18000,Individual,Petrol,Manual,21.63,998,67,5,460000,415000,45000
+Maruti,Alto,10,35000,Individual,Petrol,Manual,20.92,998,67.1,5,220000,200000,20000
+Hyundai,Creta,4,48000,Dealer,Die,Manual,19.67,1582,126.2,5,990000,905000,85000
+NULL,Scorpio,5,50000,Individual,Die,Manual,15.4,1997,120,7,950000,865000,85000
+Mahindra,Bolero,9,120000,Individual,Die,Manual,15.96,NULL,62.1,7,460000,415000,45000
+Maruti,Eeco,9,20000,Individual,CNG,Manual,15.1,1196,73,5,220000,200000,20000
+Mahindra,Thar,3,50000,Individual*(*&&,Diesel,Manual,16.55,2498,105,6,900000,815000,85000
+Volkswagen,Vento,6,53837,Dealer,Petrol,Automatic,16.93,1197,103.2,5,575000,510000,65000
+Toyota,Fortuner,6,48000,Dealer,Diesel,Automatic,12.55,2982,168.5,7,1930000,1845000,85000
+Maruti,Swift*****,8,32000,%^&&Individual,Petrol,Manual,18.6,1197,85.8,5,475000,430000,45000
+Renault,Triber,1,1784,Dealer,Petrol,Manual,20,999,71,7,660000,595000,65000
+BMW,3,10,98955,Dealer,Diesel,Automatic,13.2,1995,170,5,575000,510000,65000
+Toyota,Innova,8,52000,Dealer,Diesel,Manual,12.99,2494,100,7,625000,560000,65000
+Hyundai%%^^&&&,Creta,3,39000,Dealer,Petrol,Automatic,13,1591,121.3,5,1250000,1165000,85000
+Mahindra,KUV,5,78000,Dealer,Diesel,Manual,25.32,1198,77,6,425000,380000,45000
+Datsun,GO,5,58000,Individual,Petrol,Manual,19.44,1198,67,7,460000,415000,45000
+Audi,A4,3,34500,Individual,Diesel,Automatic,18.25,1968,187.74,5,3000000,2915000,85000
+Volkswagen,Polo,11,60000,Individual,Petrol,Manual,16.47,1198,73.9,5,200000,180000,20000
+Maruti,Alto,8,76000,Dealer,Petrol,Manual,20.92,998,67.1,5,211000,191000,20000
+Maruti,Ertiga,6,51000,Individual,Diesel,Manual,20.77,1248,88.76,7,600000,535000,65000
+BMW,3,7,23746,Dealer,Diesel,Automatic,22.69,1995,190,5,1600000,1515000,85000
+Maruti,Alto,10,55780,Dealer,Petrol,Manual,20.92,998,67.1,5,220000,200000,20000
+Mahindra,Scorpio,4,100000,Individual,Diesel,Manual,15.4,1997,120,7,880000,795000,85000
+Hyundai,i10,9,73000,Dealer,Petrol,Manual,19.81,1086,68.05,5,240000,220000,20000
+Mahindra,Scorpio,4,20000,Individual,Diesel,Manual,15.4,2523,75,7,800000,735000,65000
+Tata,Tiago,4,42000,Dealer,Diesel,Manual,27.28,1047,69,5,435000,390000,45000
+Maruti,Alto,14,52235,Dealer,Petrol,Manual,19.7,796,46.3,5,110000,90000,20000
+Renault,Duster,7,56000,Dealer,Diesel,Manual,20.45,1461,83.8,5,450000,405000,45000
+Maruti,Alto,9,37000,Dealer,Petrol,Manual,20.92,998,67.1,5,250000,230000,20000
+Maruti,Swift Dzire,8,70000,Individual,Diesel,Manual,23.4,1248,74,5,385000,340000,45000
+Maruti,Swift Dzire,8,138000,Individual,Diesel,Manual,23.4,1248,74,5,400000,355000,45000
+Maruti,Eeco,3,22000,Individual,CNG,Manual,21.94,1196,61.7,5,480000,435000,45000
+Honda,Amaze,6,41604,Trustmark Dealer,Petrol,Manual,18,1198,86.7,5,400000,355000,45000
+Maruti,Ciaz,4,70000,Dealer,Diesel,Manual,26.32,1498,93.87,5,650000,585000,65000
+Jaguar,XF,8,30150,Dealer,Diesel,Automatic,16.36,2179,187.7,5,2011000,1926000,85000
+Ford,Ecosport,4,39884,Dealer,Diesel,Manual,23,1498,98.96,5,880000,795000,85000
+Datsun,RediGO,4,40000,Dealer,Petrol,Manual,22.5,999,67,5,295000,275000,20000
+Mahindra,Thar,6,27000,Individual,Diesel,Manual,16.55,2498,105,6,800000,735000,65000
+Hyundai,i10,12,67000,Dealer,Petrol,Manual,19.81,1086,68.05,5,150000,130000,20000
+Honda,Amaze,3,25000,Individual,Petrol,Automatic,18.1,1199,88.7,5,550000,485000,65000
+Toyota,Fortuner,7,50000,Individual,Diesel,Manual,13,2982,168.5,7,2000000,1915000,85000
+Honda,Amaze,8,75000,Dealer,Diesel,Manual,25.8,1498,98.6,5,325000,280000,45000
+Mahindra,Scorpio,7,80000,Individual,Diesel,Manual,12.05,NA,120,8,555000,490000,65000
+Ford,Ecosport,6,58000,Dealer,Diesel,Manual,23,1498,98.96,5,570000,505000,65000
+Renault,KWID,3,22000,Individual,Petrol,Manual,23.01,999,67,5,306000,261000,45000
+Maruti,Celerio,5,62000,Dealer,Petrol,Automatic,23.1,998,67.04,5,415000,370000,45000
+Toyota,Fortuner,3,28000,Dealer,Diesel,Automatic,12.9,2755,174.5,7,3200000,3115000,85000
+Maruti,Swift,9,41000,Dealer,Petrol,Manual,18.6,1197,85.8,5,300000,280000,20000
+Maruti,Ertiga,9,65000,Dealer,Diesel,Manual,20.77,1248,88.76,7,430000,385000,45000
+Maruti,Alto,5,10000,Individual,Petrol,Manual,23.95,998,67.05,5,315000,270000,45000
+Honda,City,7,55000,Dealer,Diesel,Manual,26,1498,98.6,5,549000,NULL,65000
+Maruti,Swift Dzire,5,47000,Dealer,Petrol,Manual,22,1197,81.8,5,475000,430000,45000
+Honda,City,7,144000,Individual,Diesel,Manual$%$%$%,26,1498,98.6,5,410000,365000,45000
+Maruti%%&&*,Ciaz,5,20500,Dealer,Petrol,Automatic,19.12,1373,91.1,5,795000,730000,65000
+Hyundai,i20,5,30000,Individual,Diesel,Manual,22.54,1396,88.73,5,820000,735000,85000
+Mahindra,Scorpio,9,32208,Dealer,Diesel,Manual,14,2523,75,8,625000,560000,65000
+Datsun,GO,3,68000,Individual*****,Petrol,Manual,19.83,1198,67,5,370000,325000,45000
+Maruti,Swift,7,90000,Individual,Diesel,Manual,25.2,1248,74,5,350000,305000,45000
+Lexus,ES,4,34000,Dealer,Petrol,Automatic,22.37,2487,214.56,5,4100000,4015000,85000
+Maruti,Swift,2,14499,Trustmark Dealer,Petrol,Manual,22,1197,81.8,5,535000,470000,65000
+Hyundai,Venue,2,34000,Dealer,Petrol,Automatic,18.15,998,118.35,5,1050000,965000,85000
+Tata,Tiago,5,17500,Individual,Diesel,Manual,27.28,1047,69,5,400000,355000,45000
+Maruti,Eeco,6,39900,Dealer,CNG,Manual,15.1,1196,73,5,275000,255000,20000
+Maruti,Alto,16,120000,Individual,Petrol,Manual,19.7,796,46.3,5,95000,85000,10000
+Jeep,Wrangler,4,40000,Dealer,Petrol,Automatic,9.5,3604,280,5,4875000,4790000,85000
+Maruti,Swift Dzire,8,90000,Individual,Diesel,Manual,23.4,1248,74,5,400000,355000,45000
+Maruti,Alto,16,40000,Individual,Petrol,Manual,19.7,796,46.3,5,121000,101000,20000
+Maruti,Swift Dzire,7,40000,Individual,Petrol,Manual,19.1,1197,85.8,5,550000,485000,65000
+Hyundai,Grand,3,10000,Individual,Petrol,Manual,18.9,NA,81.86,5,510000,445000,65000
+Maruti,Baleno,3,10000,Individual,Petrol,Automatic,21.4,1197,83.1,5,800000,735000,65000
+Maruti,Swift,2,30000,Individual,Petrol,Manual,21.21,1197,81.8,5,592000,527000,65000
+Honda,Amaze,2,4717,Dealer,Petrol,Automatic,19,1199,88.76,5,785000,720000,65000
+Maruti,Ciaz,5,30000,Individual,Petrol,Manual,20.73,1373,91.1,5,625000,560000,65000
+Ford,Ecosport,7,150000,Individual,Diesel,Manual,22.7,1498,89.84,5,470000,425000,45000
+Maruti,Swift,4,90000,Individual,Diesel,Manual,28.4,1248,74,5,620000,555000,65000
+Honda,City,7,100000,Individual,Diesel,Manual,26,1498,98.6,5,570000,505000,65000
+Toyota,Innova,2,46000,Dealer,Diesel,Automatic,11.36,2755,171.5,7,1811000,1726000,85000
+Toyota,Camry,5,32000,Individual,Petrol,Automatic,19.16,2487,214.5,5,2300000,2215000,85000
+Hyundai,Creta,3,71000,Individual,Diesel,Manual,19.67,1582,126.2,5,1100000,1015000,85000
+Ford,Ecosport,6,61000,Dealer,Petrol,Manual,15.8,1499,110,5,525000,460000,65000
+Honda,Jazz,9,58000,Dealer,Petrol,Manual,16.7,1198,88.8,5,320000,275000,45000
+Honda,Jazz,5,23000,Dealer,Diesel,Manual,27.3,1498,98.6,5,525000,460000,65000
+Maruti,Alto,6,20000,Individual,Petrol,Manual,23.95,998,67.05,5,275000,255000,20000
+Hyundai%%%%%,Elantra,8,56000,Dealer,Diesel,Automatic,19.5,1582,126.24,5,590000,525000,65000
+Maruti,Baleno,5,33000,Dealer,Diesel,Manual,27.39,1248,74,5,510000,445000,65000
+Mahindra,XUV500,9,100000,Dealer,Diesel,Manual,15.1,2179,140,7,585000,520000,65000
+Hyundai,Santro,10,174926,Individual,Petrol,Manual,17.92,1086,62.1,5,NULL,130000,20000
+Maruti,Swift Dzire,7,60000,Individual,Diesel,Manual,23.4,1248,74,5,400000,355000,45000
+Honda,City,5,70333,Dealer,Petrol,Manual,17.8,1497,117.3,5,700000,635000,65000
+Hyundai,i20,4,90000,Individual,Petrol,Manual,18.6,1197,81.83,5,500000,455000,NULL
+Toyota,Innova,9,25000,Individual,Diesel,Manual,12.99,2494,100,8,1050000,965000,85000
+Maruti,Swift Dzire,5,120000,Individual,Diesel,Manual,26.59,1248,74,5,568000,503000,65000
+Toyota,Yaris,2,5000,Individual,Petrol,Automatic,17.8,1496,105.5,5,1000000,915000,85000
+Mahindra,Scorpio,3,39000,Dealer,Diesel,Manual,16.36,2179,140,7,1275000,1190000,85000
+Hyundai,i20,6,25000,Individual,Petrol,Manual,18.6,NULL,81.83,5,475000,430000,45000
+Skoda@@@@,Superb,10,92000,Individual,Petrol,Manual,13.14,1798,157.8,5,350000,305000,45000
+Volkswagen,Polo,7,51000,Dealer,Diesel,Manual,20.14,1498,88.8,5,395000,350000,45000
+BMW,3,9,54000,Dealer,Diesel,Automatic,19.62,1995,187.74,5,825000,740000,85000
+Tata,Tiago,4,35000,Individual#$$%%^%^,Diesel,Manual,27.28,1047,69,5,450000,405000,45000
+!@#$%%^Maruti,Celerio,3,24000,Dealer,Petrol,Manual,21.63,998,67.04,5,495000,450000,45000
+Renault,Duster,8,70000,Individual,Diesel,Manual,19.01,1461,108.45,5,500000,455000,45000
+Mahindra,Scorpio,6,140000,Individual,Diesel,Manual,15.4,2179,120,7,900000,815000,85000
+Toyota,Innova,8,387000,Individual,Diesel,Manual,12.99,2494,100.6,8,700000,635000,65000
+Maruti,Vitara,4,36000,Dealer,Diesel,Manual,24.3,1248,88.5,5,710000,645000,65000
+Tata,Tiago,3,110000,Individual,Petrol,Manual,23.84,1199,84,5,400000,355000,45000
+Tata,Tiago,4,1000,Individual,Petrol,Manual,23.84,1199,84,5,470000,425000,45000
+Maruti,Vitara,3,24525,Dealer,Diesel,Manual,24.3,1248,88.5,5,795000,730000,65000
+Honda,City,4,32440,Individual,Petrol,Manual,17.4,1497,117.6,5,785000,720000,65000
+Hyundai,i10,10,70000,Individual,Petrol,Manual,19.81,1086,68.05,5,250000,230000,20000
+Datsun,RediGO,3,30000,Individual,Petrol,Manual,22.5,999,67,5,270000,250000,20000
+Volkswagen,Vento,3,23268,Individual,Diesel,Manual,22.27,1498,108.6,5,914000,829000,85000
+Maruti,Wagon R,8,67000,Dealer,CNG,Manual,32.52,998,58.33,5,260000,240000,20000
+Renault,Duster,6,150000,Individual,Diesel,Manual,20.45,1461,83.8,5,550000,485000,65000
+Toyota,Innova,2,25000,Dealer,Diesel,Automatic,11.36,2755,171.5,7,2225000,2140000,85000
+Maruti,Swift,3,50000,Individual,Petrol,Manual,21.21,1197,81.8,5,540000,475000,65000
+Mahindra,Thar,5,40000,Individual,Diesel,Manual,16.55,NA,105,6,620000,555000,65000
+Audi,A4,7,56000,Dealer,Diesel,Automatic,16.55,1968,147.51,5,1550000,1465000,85000
+Honda,City,10,60000,Dealer,Petrol,Manual,17,1497,118,5,350000,305000,45000
+Maruti,Alto,5,10000,Individual,Petrol,Manual,23.95,998,67.05,5,300000,280000,20000
+Honda,City,7,110000,Individual,Diesel,Manual,25.1,1498,98.6,5,550000,485000,65000
+Mahindra,Scorpio,2,30000,Individual,Diesel,Manual,16.36,2179,140,7,1270000,1185000,85000
+Maruti,Ertiga,2,20000,Individual,Petrol,Manual,19.34,1462,103,7,740000,675000,65000
+Mercedes-Benz,GL-Class,7,89000,Dealer,Diesel,Automatic,11.3,2987,254.8,7,3450000,3365000,85000
+Tata,Tiago,3,15000,Individual,Petrol,Manual,23.84,1199,84,5,450000,405000,45000
+Hyundai,Verna,4,15000,Individual,Petrol,Automatic,15.74,1591,121.3,5,750000,685000,65000
+Maruti$%%%%%,Swift,6,90000,Individual,Diesel,Manual,25.2,1248,74,5,520000,455000,65000
+Maruti,Swift,8,73695,Trustmark Dealer,Petrol,Manual,18.6,1197,85.8,5,345000,300000,45000
+Hyundai,i10,12,100000,Individual,Petrol,Manual,19.81,1086,68.05,5,215000,195000,20000
+Hyundai,Verna,11,10000,Individual,Petrol,Manual,16.2,1599,103.2,5,370000,325000,45000
+Maruti,Alto,7,14971,Trustmark Dealer,Petrol,Manual,22.74,796,47.3,5,230000,210000,20000
+Honda,City,2,16000,Dealer,Petrol,Manual,17.4,1497,117.6,5,1075000,990000,85000
+Mahindra,Bolero,6,50000,Individual,Diesel,Manual,15.96,2523,62.1,7,550000,485000,65000
+Ford,Figo,3,64000,Dealer,Diesel,Manual,24.4,1499,98.96,5,550000,485000,65000
+Tata,Tigor,4,25000,Individual,Diesel,Manual,24.7,1047,69,5,600000,535000,65000
+Maruti#$$$%%%,Ciaz,6,37006,Dea,Diesel,Manual,26.21,1248,88.5,5,525000,460000,65000
+Maruti,Wagon R,7,50000,Individual,Petrol,Manual,20.51,998,67.04,5,350000,305000,45000
+Maruti,Swift Dzire,12,94000,Dealer,Diesel,Manual,19.3,1248,73.9,5,255000,235000,20000
+Mahindra,Scorpio,6,93469,Dealer,Diesel,Manual,15.4,2179,120,7,890000,805000,85000
+Mahindra,XUV500,3,20000,Individual,Diesel,Manual,16,2179,140,7,1500000,1415000,85000
+Mercedes-Benz,E-Class,5,20000,Indi,Diesel,Automatic,15,2143,204,5,3000000,2915000,85000
+Mahindra,Bolero,8,35000,Individual,Diesel,Manual,15.96,2523,62.1,7,500000,455000,45000
+Maruti,Wagon R,6,38546,Dealer,Petrol,Manual,20.51,998,67.04,5,330000,285000,45000
+Skoda,Rapid,4,18000,Individual,Petrol,Automatic,14.84,1598,103.2,5,850000,765000,85000
+Ford,Figo,6,34500,Dealer,Petrol,Manual,15.6,1196,70,5,335000,290000,45000
+Maruti,Swift Dzire,3,43000,Dealer,Petrol,Automatic,21.21,1197,81.8,5,610000,545000,65000
+Maruti,Baleno,3,20000,Individual,Petrol,Automatic,21.4,1197,83.1,5,834000,749000,85000
+Ford$$%$$%,Figo,10,100000,Individual,Diesel,Manual,20,1399,68,5,170000,150000,20000
+Maruti,Vitara,3,40000,Individual,Diesel,Manual,24.3,1248,88.5,5,900000,815000,85000
+Honda,City,7,120000,Individual,Diesel,Manual,26,1498,98.6,5,450000,405000,45000
+Maruti,Ertiga,2,25000,Indi,Petrol,Automatic,18.69,1462,103,7,900000,815000,85000
+Volkswagen,Vento,10,98000,Individual,Petrol,Manual,15.04,1598,103.6,5,360000,315000,45000
+Honda,Jazz,5,66000,De,Petrol,Manual,16,1198,90,5,530000,465000,65000
+BMW,X1,4,30000,Individual,Diesel,Automatic,20.68,1995,188,5,2700000,2615000,85000
+Mahindra,Bolero,6,60000,Individual,Diesel,Manual,15.96,2523,62.1,7,551000,486000,65000
+Mercedes-Benz,C-Class,9,41315,DLEAR,Petrol,Automatic,11.74,1796,186,5,1050000,965000,85000
+Hyundai,Creta,3,60000,Individual,Diesel,Manual,19.67,1582,126.2,5,1000000,915000,85000
+Maruti,Alto,17,80000,Individual,Petrol,Manual,19.7,796,46.3,5,80000,70000,10000
+Maruti,Eeco,6,60000,Individual,CNG,Manual,20,1196,63,5,250000,230000,20000
+Maruti,Wagon R,5,35000,Dealer,Petrol,Manual,21.5,1197,81.8,5,390000,345000,45000
+Audi,Q7,7,120000,Individual,Diesel,Automatic,12.07,2967,241.4,7,2400000,2315000,85000
+Hyundai,Verna,13,80000,Individual,Petrol,Manual,13.9,1599,103.2,5,130000,110000,20000
+Maruti,Swift Dzire,4,100000,Individual,Diesel,Manual,26.59,1248,74,5,450000,405000,45000
+Mercedes-Benz,C-Class,8,35400,Dealer,Diesel,Automatic,14.84,2143,167.62,5,1385000,1300000,85000
+BMW,7,4,18000,Dealer,Diesel,Automatic,17.66,2993,355.37,4,6900000,6815000,85000
+Maruti,Swift,5,37000,Dealer,Petrol,Manual,18.6,1197,85.8,5,495000,450000,45000
+Honda,WR-V,4,10000,Individual,Petrol,Manual,17.5,1199,88.7,5,800000,735000,65000
+Renault,KWID,4,40000,Individual,Petrol,Manual,23.01,999,67,5,260000,240000,20000
+Maruti,Alto,18,120000,Individual,Petrol,Manual,19.7,796,46.3,5,65000,55000,10000
+Hyundai,Grand,5,60000,Individual,Petrol,Manual,18.9,1197,82,5,460000,415000,45000
+Hyundai,i20,7,100000,Individual,Diesel,Manual,21.9,1396,88.76,5,450000,405000,45000
+Maruti,Wagon R,14,55000,Dealer,Petrol,Manual,18.9,1061,67,5,105000,85000,20000
+Honda,CR-V,4,34000,Dealer,Petrol,Automatic,12,2354,187.4,5,1775000,1690000,85000
+Ford,Ecosport,5,67000,Dealer,Diesel,Manual,22.77,1498,98.59,5,525000,460000,65000
+Renault,KWID,4,10000,Individual,Petrol,Automatic,24.04,999,67,5,341000,296000,45000
+Hyundai,Creta,5,20699,Dealer,Petrol,Manual,15.29,NULL,121.3,5,775000,710000,65000
+Toyota%%^^&&&*,Fortuner&&&&&,10,75000,Dealer,Diesel,Manual,11.5,2982,171,7,1099000,1014000,85000
+Honda,Amaze,7,89000,Individual,Diesel,Manual,25.8,1498,98.6,5,320000,275000,45000
+Skoda,Rapid,4,59000,Dealer,Petrol,Automatic,14.3,1598,NULL,5,599000,534000,65000
+Mahindra,Scorpio,7,120000,Individual,Diesel,Manual,15.4,2523,75,9,750000,685000,65000
+Maruti,Swift,4,68791,Dealer,Diesel,Manual,25.2,1248,74,5,510000,445000,65000
+Maruti,Alto,2,10300,Individual,Petrol,Manual,24.7,796,47.3,5,300000,280000,20000
+Maruti,Ertiga,2,25000,Individual,Diesel,Manual,25.47,1248,88.5,7,1100000,1015000,85000
+Maruti,Swift Dzire,7,36000,Dealer,Petrol,Manual,17.5,1197,85.8,5,435000,390000,45000
+Honda,Jazz,10,60000,Individual,Petrol,Manual,16,1198,90,5,320000,275000,45000
+Maruti,Alto,5,25000,Individual,Petrol,Manual,23.95,998,67.05,5,350000,305000,45000
+Mercedes-Benz,E-Class,4,48000,Dealer,Diesel,Automatic,16.1,1950,191.7,5,3750000,3665000,85000
+Honda,CR-V,4,90000,Dealer,Petrol,Automatic,10.1,2354,152,5,1490000,1405000,85000
+Maruti,Swift Dzire,8,70000,Individual,Diesel,Manual,23.4,1248,74,5,550000,485000,65000
+Hyundai,Verna,6,90000,Individual,Diesel,Manual,23.9,1582,126.2,5,525000,460000,65000
+Hyundai,Verna,9,96000,Individual,Diesel,Manual,22.32,1582,126.32,5,415000,370000,45000
+Maruti888,Alto,6,90000,Individual,Petrol,Manual,22.74,796,47.3,5,200000,180000,20000
+Maruti,Ertiga,4,41000,Dealer,Petrol,Manual,16.02,1373,93.7,7,695000,630000,65000
+Hyundai,i10,13,30000,Individual,Petrol,Manual,19.81,1086,68.05,5,160000,140000,20000
+Hyundai,i10,10,29000,Dealer,Petrol,Manual,20.36,1197,78.9,5,235000,215000,20000
+Maruti,Wagon R,9,59000,Individual,Petrol,Manual,18.9,998,67.1,5,300000,280000,20000
+Hyundai,i20,3,12000,Individual,Petrol,Manual,17.19,1197,81.86,5,600000,535000,65000
+Maruti****,Wagon R,3,45874,Dealer,CNG,Manual,26.6,998,58.16,5,357000,312000,45000
+Honda,Amaze,5,100000,Individual,Diesel,Manual,25.8,1498,98.6,5,320000,275000,45000
+Ford,Figo,10,10000,Individual,Diesel,Manual,20,1399,68,5,250000,230000,20000
+Maruti,Ciaz,4,40000,Dealer,Petrol,Automatic,19.12,1373,91.1,5,770000,705000,65000
+Mahindra,XUV300,2,25000,Individual,Petrol,Manual,17,1197,110,5,1140000,1055000,85000
+Maruti,Swift,10,150000,Individual,Diesel,Manual,17.8,1248,75,5,200000,180000,20000
+Ford,Ecosport,4,40000,Individual,Petrol,Manual,15.85,1499,110.4,5,700000,635000,65000
+Maruti,Swift Dzire,8,65000,Individual,Diesel,Manual,23.4,1248,74,5,480000,435000,45000
+Hyundai,i20,4,45000,Individual,Petrol,Manual,18.6,1197,81.83,5,600000,535000,65000
+Maruti,Swift,7,80000,Dealer,Diesel,Manual,25.2,1248,74,5,410000,365000,45000
+Honda,City,5,60000,Individual,Diesel,Manual,26,1498,98.6,5,750000,685000,65000
+Maruti^*(*^%,Baleno,6,38819,Dealer,Petrol,Manual,21.4,1197,83.1,5,510000,445000,65000
+Honda,WR-V,2,5700,Dealer,Petrol,Manual,17.5,1199,88.7,5,875000,790000,85000
+Maruti,Baleno$%^&**,4,24000,Dealer,Petrol,Manual,21.4,1197,83.1,5,565000,500000,65000
+Maruti,Wagon R,7,50000,Individual,Petrol,Manual,20.51,998,67.04,5,295000,275000,20000
+Tata,Tiago,4,35000,Individual,Petrol,Manual,23.84,1199,84,5,380000,335000,45000
+Mahindra,Scorpio,7,70000,Individual,Diesel,Manual,14,2523,75,7,650000,585000,65000
+BMW,7,10,78251,Dealer,Diesel,Automatic,14.49,2993,258,5,1600000,1515000,85000
+Hyundai,Verna,8,59867,Dealer,Diesel,Manual,22.32,1582,126.32,5,450000,405000,45000
+Mahindra,Bolero,3,50000,Individual,Diesel,Manual,16.5,1493,70,7,800000,735000,65000
+Maruti,S-Presso,2,8400,Individual,Petrol,Manual,21.7,998,67,5,420000,375000,45000
+Maruti,Celerio,7,9000,Individual,Petrol,Automatic,23.1,998,67.04,5,360000,315000,45000
+Maruti,Celerio,6,17000,Individual,Petrol,Automatic,23.1,998,67.04,5,425000,380000,45000
+Tata,Safari,9,94000,Individual,Diesel,Manual,13.93,2179,138.03,7,250000,230000,20000
+Volkswagen,Polo,9,35000,Individual,Diesel,Manual,22.07,1199,73.9,5,290000,270000,20000
+Honda,Amaze,2,25000,Dealer,Petrol,Manual,18.6,1199,88.76,5,640000,575000,65000
+Maruti,Wagon R,16,90000,Individual,Petrol,Manual,14,1061,64,5,80000,70000,10000
+Mahindra,XUV500,8,90000,Individual,Diesel,Manual,15.1,2179,140,7,700000,635000,65000
+Maruti,Swift Dzire,5,40000,Individual,Diesel,Manual,26.59,1248,74,5,550000,485000,65000
+Maruti,Swift Dzire,7,78916,Individual,Diesel,Manual,23.4,1248,74,5,300000,280000,20000
+Hyundai,Verna,4,19000,Individual,Petrol,Manual,17,1591,121.3,5,900000,815000,85000
+Maruti,Swift,13,75900,Individual,Petrol,Manual,16.1,1298,88.2,5,240000,220000,20000
+Hyundai,i20,4,33230,Dealer,Petrol,Manual,18.6,1197,81.83,5,655000,590000,65000
+Ford,Figo,6,58000,Individual,Petrol,Manual,18.16,1196,86.8,5,290000,270000,20000
+Maruti,Alto,18,90000,Individual,Petrol,Manual,19.7,796,46.3,5,80000,70000,10000
+Hyundai,Grand,4,17000,Individual,Petrol,Manual,18.9,1197,82,5,425000,380000,45000
+Maruti,Swift Dzire,7,114605,Dealer,Petrol,Manual,19.1,1197,85.8,5,380000,335000,45000
+Kia,Seltos,2,19000,Individual,Diesel,Manual,20.8,1493,113.4,5,1250000,1165000,85000
+Maruti,Vitara,4,35000,Individual,Diesel,Manual,24.3,1248,88.5,5,884000,799000,85000
+Mahindra,Bolero,3,50000,Individual,Diesel,Manual,16.5,1493,70,7,800000,735000,65000
+Honda,City,8,74000,Dealer,Petrol,Manual,16.9,1497,100,5,580000,515000,65000
+Maruti,Wagon R,2,6000,Dealer,Petrol,Manual,20.52,1197,81.8,5,500000,455000,45000
+BMW,5,3,7000,Dealer,Diesel,Automatic,22.48,1995,187.74,5,4750000,4665000,85000
+Hyundai,Grand,7,40000,Individual,Petrol,Manual,18.9,1197,82,5,NULL,475000,65000
+Datsun,GO,6,70000,Individual,Petrol,Manual,20.62,1198,67,7,300000,280000,20000
+Maru,Swift Dzi,2,10000,Indivi,Petrol,Manual,21.21,1197,81.8,5,640000,575000,65000
+Maruti,Vitara,3,34000,Dealer,Diesel,Automatic,24.3,1248,88.5,5,875000,790000,85000
+Maruti,Vitara*****,4,39000,Individual,Diesel,Manual,24.3,1248,88.5,5,750000,685000,65000
+Tata,Tiago,1,10000,Individual,Petrol,Manual,23.84,1199,83.83,5,535000,470000,65000
+Honda,City,12,66000,Dealer,Petrol,Manual,17,1497,118,5,262000,242000,20000
+Maruti,Ciaz,5,38000,Dealer,Diesel,Manual,28.09,1248,88.5,5,591000,526000,65000
+Hyundai%%%%%,i20,8,110000,Individual,Diesel,Manual,21.9,1396,88.76,5,350000,305000,UNKNOWN
+Maruti,Ertiga,3,25000,Individual,Petrol,Manual,17.5,1373,91.1,7,720000,655000,65000
+Hyundai,Creta,3,40000,Individual,Diesel,Manual,22.1,1396,88.7,5,1050000,965000,85000
+Audi,A4,10,61000,Individual,Diesel,Automatic,15.2,1968,140.8,5,NAN,915000,85000
+Tata,Tiago,3,63000,Individual,Diesel,Manual,27.28,1047,69,5,380000,335000,45000
+Maruti,Vitara,2,7980,Dealer,Diesel,Manual,24.3,1248,88.5,5,850000,765000,NULL
+Maruti,Alto,5,30000,Individual,Petrol,Manual,22.74,796,47.3,5,225000,205000,20000
+Mercedes-Benz,E-Class,10,60000,Dealer,Petrol,Manual,12.3,1796,185,5,890000,nan,85000
+Maruti,Swift,4,45000,Dealer,Diesel,Manual,28.4,1248,74,5,560000,495000,65000
+Maruti,Baleno,15,43000,Individual,Petrol,Manual,15.4,1590,94,5,120000,100000,20000
+Ford,Endeavour,10,62000,Dealer,Diesel,Automatic,11.4,2953,153.86,7,425000,380000,45000
+Tata,Nexon,2,6507,Dealer,Petrol,Automatic,17,1198,108.5,5,875000,790000,85000
+Ford,Aspire,3,8000,Individual,Petrol,Manual,18.16,1196,86.8,5,590000,525000,65000
+Honda,City,9,51000,Dealer,Petrol,Manual,16.8,1497,116.3,5,440000,395000,45000
+Maruti,Wagon R,12,120000,Individual,LPG,Manual,17.3,1061,57.5,5,110000,90000,20000
+Maruti,Wagon R,6,114183,Individual,Petrol,Manual,21.79,998,67.05,5,350000,305000,45000
+Hyundai,Grand,1,15000,Individual,Petrol,Automatic,20.7,1197,81.86,5,650000,585000,65000
+Mercedes-Benz,E-Class,4,49000,Dealer,Diesel,Automatic,10,2148,170,5,3975000,3890000,85000
+Honda,City,12,75000,Dealer,Petrol,Manual,17,1497,118,5,260000,240000,20000
+Hyundai,Grand,6,50000,Individual,Petrol,Manual,18.9,1197,82,5,405000,360000,45000
+Toyota,Innova,2,29250,Dealer,Diesel,Manual,13.68,2393,147.8,8,1950000,1865000,85000
+Mahindra,XUV500,5,100000,Individual,Diesel,Automatic,16,1997,140,7,1180000,1095000,85000
+Mahindra,Scorpio,4,50000,Individual,Diesel,Manual,15.4,2179,120,7,970000,885000,85000
+Maruti,Swift Dzire,13,120000,Individual,Diesel,Manual******,19.3,1248,73.9,5,165000,145000,20000
+Honda,City,5,55000,Dealer,Petrol,Manual,17.8,1497,117.3,5,650000,585000,65000
+Hyundai,Elantra,4,43500,Dealer,Petrol,Automatic,14.62,1999,149.92,5,1245000,1160000,85000
+Maruti,Vitara,5,70000,Dealer,Diesel,Manual,24.3,1248,88.5,5,680000,615000,65000
+Maruti,Swift,9,120000,Individual,Diesel,Manual,22.9,1248,74,5,500000,455000,45000
+Hyundai,i10,9,70000,Individual,Petrol,Manual,20.36,1197,78.9,5,200000,180000,20000
+Maruti%%%%%,Wagon R,10,53000,Dealer,Petrol,Manual,20.51,998,67.04,5,275000,255000,20000
+Hyundai,Venue,1,5000,Dealer,Diesel,Manual,23.7,1493,98.6,5,890000,805000,85000
+Hyundai,Verna,8,58000,Dealer,Diesel,Manual,22.32,1582,126.3,5,360000,315000,45000
+Hyundai,i20,2,15000,Dealer,Petrol,Manual,18.6,1197,81.86,5,620000,555000,65000
+Hyundai,Grand,6,55000,Dealer,Petrol,Manual,18.9,1197,82,5,360000,315000,45000
+Datsun,RediGO,2,10000,Individual,Petrol,Manual,22.7,799,53.64,5,260000,240000,20000
+Maruti,Swift Dzire,4,46122,Dealer,Petrol,Automatic,22,1197,81.8,5,650000,585000,65000
+Maruti,Vitara,5,74962,Dealer,Diesel,Manual,24.3,1248,88.5,5,681000,616000,65000
+Maruti,Eeco,6,40000,Individual,Petrol,Manual,15.37,1196,73,7,215000,195000,20000
+Toyota,Fortuner,3,39000,Dealer,Diesel,Automatic,12.9,2755,174.5,7,3050000,2965000,85000
+Hyundai,Santro,11,70000,Individual,Petrol,Manual,17.92,1086,62.1,5,225000,205000,20000
+Maruti,Ertiga,8,60000,Dealer,Diesel,Manual,20.77,1248,88.8,7,400000,355000,NULL
+Ford,Ecosport,5,23256,Trustmark Dealer,Petrol,Manual,17,1497,121.36,5,585000,520000,65000
+Maruti,Vitara,5,84000,Individual,Diesel,Manual,24.3,1248,88.5,5,525000,460000,65000
+^^^^^Renault,Duster&&&&,6,56308,Dealer,Diesel,Manual,20.45,1461,83.8,5,440000,395000,45000
+Honda,City,7,46000,Individual,Diesel,Manual,26,1498,98.6,5,501000,NULL,65000
+Maruti6666,Wagon R,14,80000,Dealer,Petrol,Manual,21.79,998,67.05,5,85000,75000,10000
+Mahindra,Scorpio,5,90000,Individual,Diesel,Manual,15.4,2179,120,7,900000,815000,85000
+Maruti,Swift Dzire,4,120000,Indiv&&&&&,Petrol,Manual,19,1197,85.8,5,325000,280000,45000
+Maruti,Alto,16,120000,Individual,Petrol,Manual,19.7,796,46.3,5,90000,80000,10000
+Hyundai,Grand,3,15000,Individual,Petrol,Manual,18.9,1197,81.86,5,525000,460000,65000
+Tata,Tiago%%%%%,2,15000,Individual,Petrol,Manual,23.84,1199,84,5,600000,535000,65000
+Skoda,Rapid,8,52000,Dealer,Petrol,Manual,15,1598,103.5,5,NULL,380000,45000
+Hyundai,i20,6,39000,Dealer,Petrol,Manual,18.6,1197,81.83,5,526000,461000,65000
+Honda,Amaze,7,27233,Dealer,Diesel,Manual,25.8,1498,98.6,5,445000,400000,45000
+Hyundai,Creta,5,43031,Dealer,Diesel,Manual,21.38,1396,88.7,5,1050000,965000,85000
+Honda,Amaze,8,73100,Dealer,Diesel,Manual,25.8,1498,98.6,5,324000,279000,45000
+Toyota,Fortuner,3,39000,Dealer,Diesel,Automatic%%%%%%,12.9,2755,174.5,7,3040000,2955000,85000
+Maruti,Ciaz,6,49000,Dealer,Diesel,Manual,28.09,1248,88.5,5,565000,500000,65000
+Hyundai,Verna,8,100000,Individual,Diesel,Manual,22.32,1582,126.3,5,500000,455000,45000
+Maruti,Dzire LXI,6,50000,Dealer,Petrol,Manual,23.26,1197,88.5,5,385000,340000,45000
+Volkswagen,Polo,4,66900,Individual,Diesel,Manual,20.14,1498,88,5,700000,635000,65000
+Hyundai,Creta,4,46000,Dealer,Petrol,Automatic,13,1591,121.3,5,1095000,1010000,85000
+Maruti,Swift,3,40000,Individual,Petrol,Manual,22,1197,81.8,5,550000,485000,65000
+Hyundai,i10,11,28400,Individual,Petrol,Manual,20.36,1197,78.9,5,300000,280000,20000
+MG,Hector,1,4800,Dealer,Petrol,Manual,15.81,1451,141,5,1800000,1715000,85000
+Volkswagen,Polo,9,62000,Dealer,Petrol,Manual,16.47,1198,73.9,5,310000,265000,45000
+Hyundai,Verna,5,25000,Individual,Petrol,Manual,17.01,1591,121.3,5,780000,715000,65000
+Maruti,Swift,6,45864,Dealer,Petrol,Manual,20.4,1197,83.11,5,450000,405000,45000
+Renault,Duster,7,185000,Individual,Diesel,Manual,20.45,1461,83.8,5,310000,265000,45000
+Mahindra,Scorpio,10,60000,Individual,Diesel,Manual,12.05,2179,120,8,556000,491000,65000
+Mahindra,XUV500,7,170000,Individual,Diesel,Manual,15.1,2179,140,7,825000,740000,85000
+Land Rover,Rover,7,82000,Dealer,Diesel,Automatic,12.7,2179,187.7,5,2590000,2505000,85000
+Mahindra,Scorpio,10,60000,Individual****,Diesel,Manual,12.05,2179,120,8,465000,420000,45000
+Hond****a,Amaze,5,13433,Dealer,Petrol,Manual,17.8,1198,86.7,5,551000,486000,65000
+Hyundai,i20,6,35000,Individual,Diesel,Manual,22.54,1396,88.73,5,600000,535000,65000
+Hyundai,Santro,2,5000,Individual,Petrol,Manual,20.3,1086,68,5,410000,365000,45000
+Maruti,Swift,3,32400,Dealer,Petrol,Manual,22,1197,81.8,5,575000,510000,65000
+Mahindra,Thar,7,60000,Individual,Diesel,Manual,16.55,2498,105,6,700000,635000,65000
+Toyota,Innova,4,50000,Dealer,Petrol,Automatic,10.75,2694,163.7,8,1495000,1410000,85000
+Mercedes-Benz,GL-Class,5,70000,Dealer,Diesel,Automatic,12,2987,224,7,4100000,4015000,85000
+Mahindra,Scorpio,4,56000,Dealer,Diesel,Manual,15.4,1997,120,7,1150000,1065000,85000
+Maruti,Alto,7,34000,Dealer,Petrol,Manual,23.95,998,67.05,5,251000,231000,20000
+Hyundai,Grand,6,59000,Dealer,Petrol,Manual,18.9,1197,82,5,425000,380000,45000
+Hyundai,Grand,2,30000,Individual,Petrol,Manual,18.9,1197,81.86,5,600000,535000,65000
+Maruti,Ciaz,6,48767,Dealer,Diesel,Manual,26.21,1248,88.5,5,681000,616000,65000
+Honda,Jazz,6,88541,Dealer,Diesel,Manual,27.3,1498,98.6,5,500000,455000,45000
+Maruti,Swift,8,57300,Dealer,Diesel,Manual,28.4,1248,74,5,340000,295000,45000
+Hyundai,Creta,5,66500,Dealer,Petrol,Automatic,13,1591,121.3,5,998000,913000,85000
+Hyundai,i20,7,24000,Individual,Petrol,Manual,18.6,1197,81.83,5,500000,455000,45000
+Honda,Amaze,7,27233,Dealer,Diesel,Manual,25.8,1498,98.6,5,445000,400000,45000
+Hyundai,Creta,5,43031,Dealer,Diesel,Manual,21.38,1396,88.7,5,1050000,965000,85000
+Mahindra,XUV500,6,25000,Individual,Diesel,Manual,16,2179,140,7,1400000,1315000,85000
+Ford,Figo,8,43434,Individual,Diesel,Manual,20,1399,68.1,5,280000,260000,20000
+Maruti,Swift Dzire,3,40000,Individual,Diesel,Manual,28.4,1248,74.02,5,750000,685000,65000
+Honda,Jazz,10,80000,Individual,Petrol,Manual,16.7,1198,88.8,5,250000,230000,20000
+Volkswagen,Polo,10,63000,Dealer,Petrol,Manual,16.47,1198,73.9,5,245000,225000,20000
+Volkswagen,Polo,8,90000,Individual,Diesel,Manual,22.07,1199,73.9,5,250000,230000,20000
+Tata,Tiago,4,22000,Dealer,Diesel,Manual,27.28,1047,69,5,475000,430000,45000
+Mahindra,Bolero,4,80000,Individual,Diesel,Manual,15.96,2523,63,9,600000,535000,65000
+Mahindra,XUV500,8,51674,Dealer,Diesel,Manual,15.1,2179,140,7,570000,505000,65000
+Datsun,RediGO,5,10000,Individual,Petrol,Manual,22.7,799,53.64,5,245000,225000,20000
+Hyundai,i20,8,35858,Dealer,Petrol,Manual,18.5,1197,82.85,5,350000,305000,45000
+Maruti,Ciaz,3,35000,Individual,Petrol,Automatic,20.28,1462,103.25,5,1000000,915000,85000
+Hyundai,Verna,3,18329,Dealer,Diesel,Manual,22,1582,126.2,5,990000,905000,85000
+Toyota,Innova,3,49000,Dealer,Diesel,Automatic,11.36,2755,171.5,7,2050000,1965000,85000
+^^^^^^Mahindra,Thar,9,50000,Individual,Diesel,Manual,16.55,2498,105,6,500000,455000,45000
+Volkswagen,Vento,10,50000,Individual,Petrol,Manual,15.04,1598,103.6,5,385000,340000,45000
+Maruti,Alto,8,47000,Dealer,Petrol,Manual,20.92,998,67.1,5,280000,260000,20000
+Maruti,Swift,7,60000,Individual,Diesel,Manual,25.2,1248,74,5,465000,420000,45000
+Ford,Ecosport,5,72000,Individual,Diesel,Manual,22.77,1498,98.59,5,650000,585000,65000
+Honda,City,12,69000,Dealer,Petrol,Manual,17,1497,118,5,300000,280000,20000
+Audi,Q7,10,65000,Dealer,Diesel,Automatic,11.33,4134,335.2,7,1890000,1805000,85000
+Maruti,Wagon R,9,100000,Individual,Petrol,Manual,18.9,998,67.1,5,225000,205000,20000
+Maruti***,Baleno,1,1500,Individual,Petrol,Manual,21.01,1197,81.8,5,624000,559000,65000
+Hyundai,Aura,1,4500,Individual,Petrol,Manual,20.5,1197,81.86,5,900000,815000,85000
+Audi,A4,9,23994,Dealer,Diesel,Automatic,17.11,1968,174.33,5,1275000,1190000,85000
+Tata,Safari,6,100000,Individual,Diesel,Manual,14,2179,138.1,7,585000,520000,65000
+Hyundai,Verna,7,70355,Dealer,Diesel,Manual,22.32,1582,126.32,5,527000,462000,65000
+Maruti,Vitara,4,40000,Individual,Diesel,Manual,24.3,1248,88.5,5,720000,655000,65000
+Maruti,Vitara,3,39000,Dealer,Diesel,Manual,24.3,1248,88.5,5,775000,710000,65000
+Mahindra,KUV100,2,17000,Individual,Diesel,Manual,25.32,1198,77,6,600000,535000,65000
+Honda,Amaze,2,10000,Individual,Petrol,Manual,19.5,1199,88.76,5,650000,585000,65000
+Mahindra,KUV,4,20000,Individual,Petrol,Manual,18.15,1198,82,6,380000,335000,45000
+Hyundai,i20,3,35000,Individual,Petrol,Manual,18.6,1197,81.83,5,600000,535000,65000
+Maruti,Alto,7,52000,Dealer,Petrol,Manual,23.95,998,67.05,5,244000,224000,20000
+Maruti,Alto,7,50080,Individual,Petrol,Manual,22.74,796,47.3,5,225000,205000,20000
+Hyundai,i10,11,90000,Individu****al,Petrol,Manual,19.81,1086,68.05,5,130000,110000,20000
+Volkswagen,Vento,6,67000,Dealer,Diesel,Automatic,22.15,1498,108.6,5,565000,500000,65000
+Maruti,Celerio,4,20000,Individual,Petrol,Manual,23.1,998,67.04,5,450000,405000,45000
+Hyundai,Creta,2,39000,Dealer,Petrol,Manual,15.8,1591,121.3,5,920000,835000,85000
+Mahindra,Scorpio,4,36000,Dealer,Diesel,Manual,15.4,1997,120,7,1241000,1156000,85000
+Maruti,Swift,3,40000,Individual,Petrol,Automatic,22,1197,81.8,5,630000,565000,65000
+Maruti,Baleno,2,18458,Trustmark Dealer,Petrol,Manual,21.01,1197,81.8,5,610000,545000,65000
+Volvo^^^^^^,XC,6,54694,Dealer,Diesel,Manual,11.1,2400,200,7,2400000,2315000,85000
+Maruti,Wagon R,6,18650,Dealer,Petrol,Manual,21.5,1197,81.8,5,299000,279000,20000
+Honda,City,2,23000,Individual,Petrol,Manual,17.4,1497,117.6,5,960000,875000,85000
+Honda,WR-V,3,24000,Dealer,Petrol,Manual,17.5,1199,88.7,5,775000,710000,65000
+Mahindra,XUV500,3,40000,Individual,Diesel,Manual,16,2179,140,7,1321000,1236000,85000
+Mahindra,XUV500%^&&**,8,148736,Individual,Diesel,Manual,15.1,2179,140,7,700000,635000,65000
+Honda,City,5,80000,Dealer,Petrol,Automatic,18,1497,117.3,5,680000,615000,65000
+Hyundai,Grand,3,10000,Individual,Petrol,Manual,18.9,1197,81.86,5,451000,406000,45000
+Maruti,Vitara,4,32000,Individual,Diesel,Manual,24.3,1248,88.5,5,925000,840000,85000
+Renault,Duster,8,95000,Dealer,Diesel,Manual,19.01,1461,108.45,5,295000,275000,20000
+Maruti,Swift Dzire,3,20000,Individual,Petrol,Manual,21.21,1197,81.8,5,635000,570000,65000
+Mahindra,Scorpio,11,186000,Individual,Diesel,Manual,12.05,2179,120,8,400000,355000,45000
+Tata,Tigor,3,50000,Individual,Petrol,Manual,20.3,1199,84,5,410000,365000,45000
+Audi,A6,1,3000,Dealer,Petrol,Automatic,17.01,1984,241.3,5,4600000,4515000,85000
+BMW,7,13,70000,Dealer,Petrol,Automatic,8.45,2979,321,5,750000,685000,65000
+Maruti,Ciaz,6,75000,Dealer,Diesel,Manual,28.09,1248,88.5,5,625000,560000,65000
+Toyota,Fortuner,11,100000,Dealer,Diesel,Manual,11.5,2982,171,7,800000,735000,65000
+Hyundai,Santro,13,69000,Dealer,Petrol,Manual,17.92,1086,62.1,5,125000,105000,20000
+Hyundai#$$%^&,Elantra,8,90000,Individual,Diesel,Manual,22.7,1582,126.24,5,615000,550000,65000
+Mahindra,Scorpio,6,120000,Individual,Diesel,Manual,15.4,2179,120,7,900000,815000,85000
+Honda,Amaze,1,1800,INDVIDUAL,Petrol,Manual,19.5,1199,88.76,5,720000,655000,65000
+Maruti,Swift,3,15000,Individual,Diesel,Manual,28.4,1248,74,5,675000,610000,65000
+Skoda,Rapid,6,35000,Indiual,Petrol,Automatic,14.3,1598,103.52,5,650000,585000,65000
+Toyota,Innova,8,215000,Individual,Diesel,Manual,12.99,2494,100.6,7,1000000,915000,85000
+Maserati,Ghibli,5,15000,Dealer,Diesel,Automatic,20.41,2987,271,5,6200000,6115000,85000
+Maruti,Baleno,4,23200,Dealer,Petrol,Manual,21.4,1197,83.1,5,610000,545000,65000
+Hyundai,Grand,5,60000,Individual,Diesel,Manual,24,1120,70,5,400000,355000,45000
+Toyota,Innova,8,40000,Individual,Diesel,Manual,12.99,2494,100.6,8,850000,765000,85000
+Volkswagen,Polo,6,60000,Individual,Petrol,Manual,16.47,1198,74,5,350000,305000,45000
+Land Rover,Rover^&^$#$,9,70000,Dealer,Diesel,Automatic,12.7,2179,187.7,5,2100000,2015000,85000
+Mahindra,Scorpio,13,120000,Individual,Diesel,Manual,10.5,2609,120,9,300000,280000,20000
+Mahindra,Scorpio,9,147000,Individual,Diesel,Manual,14,2523,75,8,500000,455000,45000
+Renault,Duster,7,61251,Dealer,Diesel,Manual,20.45,1461,83.8,5,430000,385000,45000
+Ford,Figo,5,60000,Individual,Petrol,Manual,18.16,1196,86.8,5,420000,375000,45000
+Skoda,Rapid,9,120000,Individual,Petrol,Automatic,14.3,1598,105,5,500000,455000,45000
+Maruti,Wagon R,3,50000,Individual,Petrol,Manual,20.51,998,67.04,5,400000,355000,45000
+Honda,WR-V(((((,4,21000,Dealer,Petrol,Manual,17.5,1199,88.7,5,650000,585000,65000
+Toyota,Fortuner,5,54500,Individual,Diesel,Manual,12.55,2982,168.5,7,2000000,1915000,85000
+Maruti,Swift,13,70000,Individual,Diesel,Manual,17.8,1248,75,5,170000,150000,20000
+Honda,City,6,50000,Individual,Petrol,Manual,17.4,1497,117.3,5,650000,585000,65000
+Maruti,Alto,2,12955,Individual,Petrol,Manual,23.95,998,67.1,5,375000,330000,45000
+Hyundai,i10,13,92000,Dealer,Petrol,Manual,19.81,1086,68.05,5,190000,170000,20000
+Ford,Figo,9,80000,Individual,Diesel,Manual,20,1399,68,5,173000,153000,20000
+Skoda,Rapid,5,80000,Individual,Diesel,Manual,21.13,1498,108.6,5,650000,585000,65000
+Maruti,Swift,2,8043,Trustmark Dealer,Petrol,Automatic,22,1197,81.8,5,675000,610000,65000
+Honda,Amaze,5,35118,Dealer,Petrol,Manual,17.8,1198,86.7,5,475000,430000,45000
+Tata,Safari,7,56000,Dealer,Petrol,Manual,12,2092,127,7,675000,610000,65000
+Maruti,Celerio,2,10000,Individual,Petrol,Manual,23.1,998,67.04,5,480000,435000,45000
+Hyundai,Creta,5,52000,Dealer,Diesel,Automatic,17.01,1582,126.2,5,1050000,965000,85000
+Maruti,Wagon R,3,16631,Trustmark Dealer,Petrol,Manual,20.51,998,67.04,5,410000,365000,45000
+Hyundai,i20,6,35213,Dealer,Diesel,Manual,22.54,1396,88.73,5,535000,470000,65000
+Hyundai&^&!^&!7,Grand,6,35000,Individual,Petrol,Manual,18.9,1197,82,5,356000,311000,45000
+Hyundai,i20,4,48000,Individual,Petrol,Manual,17.19,1197,81.86,5,520000,455000,65000
+Skoda,Rapid,8,50000,Individual,Petrol,Automatic,14.3,1598,103.6,5,239000,219000,20000
+Maruti,Wagon R,8,58000,Dealer,Petrol,Manual,18.9,998,67.1,5,248000,228000,20000
+&***^&Tata,Safari,7,50000,Individual,Diesel,Manual,14,2179,138.1,7,800000,735000,65000
+Hyundai,i10,5,47000,Dealer&****(,Petrol,Manual,20.36,1197,78.9,5,365000,320000,45000
+Honda,Amaze,4,58900,Individual,Petrol,Manual,17.8,1198,86.7,5,470000,425000,45000
+Volvo,XC,11,80000,Dealer,Diesel,Automatic,11.1,2400,200,7,1200000,1115000,85000
+Hyundai,Santro,2,30000,Indil,Petrol,Manual,20.3,1086,68,5,550000,485000,65000
+Maruti,Wagon R,11,147626,Individual,Petrol,Manual,18.9,1061,67,5,199000,179000,20000
+Hyundai,i20,7,67300,Dea,Diesel,Manual,23,1396,90,5,368000,323000,45000
+Renault,Duster,9,100000,Individual,Diesel,Manual,19.01,1461,108.45,5,550000,485000,65000
+Hyundai,Elantra,6,65000,Dealer,Diesel,Automatic,19.5,1582,126.24,5,795000,730000,65000
+Maruti$$%^&&,Swift,11,160000,Individual,Diesel,Manual,17.8,1248,75,5,250000,230000,20000
+Maruti,Alto,11,43000,Individual,Petrol,Manual,19.7,796,46.3,5,170000,150000,20000
+Hyundai,i20,4,44000,Dealer,Petrol,Manual,18.6,1197,81.83,5,550000,485000,65000
+Maruti,Wagon R,9,16000,Individual,Petrol,Manual,18.9,998,67.1,5,400000,355000,45000
+Skoda,Rapid,7,110000,Individual,Diesel,Manual,21.14,1498,103.52,5,550000,485000,65000
+Datsun,GO,4,20000,Individual,Petrol,Manual,20.63,1198,67.06,5,300000,280000,20000
+Mercedes-Benz,E-Class,5,29000,Individual,Diesel,Automatic,13,2987,265,5,NULL,3415000,85000
+Maruti,Ciaz,4,63500,Dealer,Diesel,Manual,28.09,1248,88.5,5,665000,600000,65000
+Maruti,Ertiga,9,40000,Individual,Diesel,Manual,20.77,1248,88.8,7,650000,585000,65000
+Hyundai#$%^^&**(,Grand,5,46000,Individual,Petrol,Manual,18.9,1197,82,5,455000,410000,45000
+Maruti,Swift,7,70000,Individual,Petrol,Manual,18.6,1197,85.8,5,450000,405000,45000
+Hyundai,Verna****,9,68812,Dealer,Diesel,Manual,22.32,1582,126.32,5,440000,395000,45000
+Hyundai,Santro,2,5000,Individual,Petrol,Manual,20.3,1086,68,5,550000,485000,65000
+Maruti,Swift Dzire,8,110000,Individual^&**((,Petrol,Man,19.1,1197,85.8,5,420000,375000,45000
+Renault,Duster,8,56000,Dealer,Diesel,Manual,19.01,1461,108.45,5,450000,405000,45000
+Mahindra,Scorpio,13,120000,Individual,Diesel,Manual,10.5,2609,120,9,300000,280000,20000
+Mahindra,Scorpio,9,147000,Individual,Diesel,Manual,14,2523,75,8,500000,455000,45000
+******Renault,Duster,4,40000,Individual,Diesel,Automatic,19.6,1461,108.45,5,1000000,915000,85000
